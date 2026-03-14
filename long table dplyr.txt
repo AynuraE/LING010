@@ -1,0 +1,10 @@
+library(dplyr)
+library(tidyr)
+
+# Reshape the data from wide to long format using pivot_longer()
+aeLong <- ae %>%
+  pivot_longer(
+    cols = starts_with("vad."), # Selects columns starting with "test_"
+    names_to = "vadType",      # The new column for old column names
+    values_to = "vadScore"          # The new column for cell values
+  )
