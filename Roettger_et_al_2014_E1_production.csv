@@ -1,0 +1,751 @@
+subject,item,item_singular,voicing,item_pair,order,vowel,stop,place,utterancelength,accent_type,prosodic_boundary,norming_voiceless_count,norming_schwa_total,norming_schwa_pure,usable,item_vowel_dur,dur,comment
+15,stauge,staug,voiced,24,1+0i,au,g,velar,1.784,nuclear,yes,0,3,3,usable,169.76,175.348118,
+15,roke,rok,voiceless,22,8+0i,o,k,velar,1.408,nuclear,yes,1,2,2,usable,155.85,142.93876,
+15,schuke,schuk,voiceless,23,9+0i,u,k,velar,1.448,prenuclear,no,1,3,3,usable,113.14,103.278765,
+15,quade,quad,voiced,20,10+0i,a,d,alveolar,1.472,nuclear,yes,1,3,3,not_usable,190.37,198.189655,[kw] nicht nativer kluster
+15,jiete,jiet,voiceless,16,12+0i,i,t,alveolar,1.704,nuclear,yes,2,3,3,usable,140.71,134.959224,
+15,gaude,gaud,voiced,15,13+0i,au,d,alveolar,1.528,nuclear,yes,0,3,3,usable,213.2,200.714031,
+15,flape,flap,voiceless,13,19+0i,a,p,labial,1.6,nuclear,yes,0,5,5,usable,109.48,170.130933,
+15,quope,quop,voiceless,21,20+0i,o,p,labial,1.608,prenuclear,no,1,2,2,usable,146.96,146.76317,
+15,priege,prieg,voiced,18,23+0i,i,g,velar,1.512,prenuclear,no,0,5,5,not_usable,142.02,151.648318,VQ e; deaccented?
+15,mube,mub,voiced,17,25+0i,u,b,labial,1.568,prenuclear,no,1,4,4,usable,190.24,107.40031,
+15,pruke,pruk,voiceless,19,28+0i,u,k,velar,1.656,nuclear,yes,1,3,3,usable,92.5,100.458557,
+15,frube,frub,voiced,14,30+0i,u,b,labial,1.568,nuclear,yes,0,3,3,usable,126.51,117.057011,
+15,wiebe,wieb,voiced,12,37+0i,i,b,labial,1.864,nuclear,yes,0,4,4,usable,115.02,136.206486,
+15,gage,gag,voiced,5,38+0i,a,g,velar,1.552,nuclear,yes,1,4,4,usable,220.77,228.448597,
+15,klape,klap,voiceless,8,40+0i,a,p,labial,1.672,nuclear,yes,1,2,2,usable,152.21,156.441999,
+15,nauge,naug,voiced,9,41+0i,au,g,velar,1.672,nuclear,yes,0,4,4,usable,206.35,157.125253,
+15,schrieke,schriek,voiceless,11,42+0i,i,k,velar,1.672,nuclear,yes,1,3,3,usable,124.84,105.487716,
+15,drute,drut,voiceless,2,43+0i,u,t,alveolar,1.608,nuclear,yes,0,2,2,usable,111.7,148.074257,
+15,blote,blot,voiceless,1,56+0i,o,t,alveolar,1.52,prenuclear,no,2,2,2,usable,153.82,141.7069,
+15,frade,frad,voiced,3,64+0i,a,d,alveolar,1.585094432,prenuclear,no,1,3,3,usable,198.19,211.652844,
+15,gobe,gob,voiced,6,65+0i,o,b,labial,1.664,nuclear,yes,1,3,3,usable,153.2,135.252969,
+15,griede,gried,voiced,7,68+0i,i,d,alveolar,1.688,nuclear,yes,0,5,5,usable,116.35,155.555983,
+15,schmaupe,schmaup,voiceless,10,70+0i,au,p,labial,1.544,nuclear,yes,0,3,3,usable,155.18,138.796941,
+15,froke,frok,voiceless,4,72+0i,o,k,velar,1.784,nuclear,yes,1,2,2,usable,131.4,155.498907,
+15,pruge,prug,voiced,19,73+0i,u,g,velar,1.712,prenuclear,no,0,3,3,not_usable,140.88,147.518519,VQ o
+15,stauke,stauk,voiceless,24,74+0i,au,k,velar,1.68,prenuclear,yes,0,2,2,usable,160.21,171.062534,
+15,quate,quat,voiceless,20,75+0i,a,t,alveolar,1.736,nuclear,yes,1,2,2,not_usable,164.52,219.898867,"[kw] nicht nativer Kluster wie in Quad, also ok (?)"
+15,schuge,schug,voiced,23,81+0i,u,g,velar,1.752,nuclear,yes,0,4,4,usable,153.12,167.973673,
+15,gaute,gaut,voiceless,15,88+0i,au,t,alveolar,1.648,nuclear,yes,0,4,4,usable,164.88,187.405014,
+15,mupe,mup,voiceless,17,89+0i,u,p,labial,1.736,nuclear,yes,1,1,1,usable,155.68,146.314622,
+15,frupe,frup,voiceless,14,93+0i,u,p,labial,1.392,prenuclear,no,1,3,3,usable,100.5,106.084614,
+15,flabe,flab,voiced,13,96+0i,a,b,labial,1.56,prenuclear,no,1,3,3,usable,181.37,129.194826,
+15,quobe,quob,voiced,21,97+0i,o,b,labial,1.808,prenuclear,no,0,3,3,usable,145.83,178.12078,
+15,jiede,jied,voiced,16,98+0i,i,d,alveolar,1.728,prenuclear,no,0,5,5,usable,151.45,167.128283,VQ e
+15,roge,rog,voiced,22,101+0i,o,g,velar,1.776,prenuclear,no,0,4,4,usable,167.1,153.487563,
+15,prieke,priek,voiceless,18,106+0i,i,k,velar,1.824,prenuclear,no,1,3,3,not_usable,114.28,108.600143,VQ e + hesitation befor target
+15,wiepe,wiep,voiceless,12,109+0i,i,p,labial,1.848,prenuclear,no,2,3,3,usable,102.1,104.455177,
+15,gope,gop,voiceless,6,111+0i,o,p,labial,1.808,prenuclear,no,0,3,3,usable,120.77,148.72101,
+15,griete,griet,voiceless,7,114+0i,i,t,alveolar,1.768,prenuclear,no,1,4,4,usable,102.61,146.059932,
+15,nauke,nauk,voiceless,9,115+0i,au,k,velar,1.744,prenuclear,no,0,4,4,usable,160.76,137.654356,
+15,schriege,schrieg,voiced,11,116+0i,i,g,velar,1.752,prenuclear,no,0,5,5,usable,143.52,125.161569,
+15,froge,frog,voiced,4,122+0i,o,g,velar,1.736,prenuclear,no,1,2,2,usable,171.49,140.695857,
+15,schmaube,schmaub,voiced,10,125+0i,au,b,labial,1.744,prenuclear,no,0,3,3,usable,178.34,128.149771,
+15,blode,blod,voiced,1,126+0i,o,d,alveolar,1.672,prenuclear,no,2,2,2,usable,162.92,163.672235,
+15,gake,gak,voiceless,5,129+0i,a,k,velar,1.632,prenuclear,no,1,3,3,usable,195.59,206.035576,
+15,drude,drud,voiced,2,135+0i,u,d,alveolar,1.816,prenuclear,no,0,3,3,usable,157.96,141.823447,
+15,frate,frat,voiceless,3,138+0i,a,t,alveolar,1.504,prenuclear,no,0,4,4,usable,144.68,168.989158,
+15,klabe,klab,voiced,8,140+0i,a,b,labial,1.664,prenuclear,no,1,2,2,usable,157.49,161.983401,
+6,pruge,prug,voiced,19,1+0i,u,g,velar,1.288,prenuclear,no,0,3,3,not_usable,140.88,91.014535,Prok
+6,roge,rog,voiced,22,3+0i,o,g,velar,1.288,prenuclear,no,0,4,4,usable,167.1,106.513483,
+6,quobe,quob,voiced,21,7+0i,o,b,labial,1.312,prenuclear,no,0,3,3,usable,145.83,102.215491,cant detect bo
+6,prieke,priek,voiceless,18,8+0i,i,k,velar,1.32,prenuclear,no,1,3,3,usable,114.28,107.153578,
+6,stauke,stauk,voiceless,24,9+0i,au,k,velar,1.4,prenuclear,no,0,2,2,usable,160.21,147.079199,
+6,quate,quat,voiceless,20,13+0i,a,t,alveolar,1.408,prenuclear,no,1,2,2,usable,164.52,160.884608,
+6,frupe,frup,voiceless,14,17+0i,u,p,labial,1.376,prenuclear,no,1,3,3,usable,100.5,60.366425,cant detect burst
+6,flabe,flab,voiced,13,18+0i,a,b,labial,1.432,prenuclear,no,1,3,3,usable,181.37,129.185354,
+6,jiede,jied,voiced,16,19+0i,i,d,alveolar,1.328,prenuclear,no,0,5,5,not_usable,151.45,98.269101,VQ e
+6,schuge,schug,voiced,23,22+0i,u,g,velar,1.424,prenuclear,no,0,4,4,usable,153.12,83.59683,
+6,mupe,mup,voiceless,17,27+0i,u,p,labial,1.32,prenuclear,no,1,1,1,usable,155.68,81.437965,
+6,gaute,gaut,voiceless,15,28+0i,au,t,alveolar,1.408,prenuclear,no,0,4,4,usable,164.88,175.505628,
+6,gake,gak,voiceless,5,39+0i,a,k,velar,1.368,prenuclear,no,1,3,3,usable,195.59,147.930989,Rauschen
+6,griete,griet,voiceless,7,40+0i,i,t,alveolar,1.256,prenuclear,no,1,4,4,usable,102.61,109.27734,
+6,klabe,klab,voiced,8,41+0i,a,b,labial,1.408,prenuclear,no,1,2,2,usable,157.49,132.735688,cant detect bo
+6,wiepe,wiep,voiceless,12,42+0i,i,p,labial,1.36,prenuclear,no,2,3,3,usable,102.1,96.192238,
+6,froge,frog,voiced,4,45+0i,o,g,velar,1.448,prenuclear,no,1,2,2,usable,171.49,109.959781,
+6,gope,gop,voiceless,6,47+0i,o,p,labial,1.4,prenuclear,no,0,3,3,usable,120.77,116.572164,
+6,frate,frat,voiceless,3,48+0i,a,t,alveolar,1.48,prenuclear,no,0,4,4,usable,144.68,154.961257,
+6,blode,blod,voiced,1,50+0i,o,d,alveolar,1.416,deaccented,no,2,2,2,usable,162.92,137.701213,
+6,schriege,schrieg,voiced,11,53+0i,i,g,velar,1.432,prenuclear,no,0,5,5,usable,143.52,104.810023,
+6,nauke,nauk,voiceless,9,61+0i,au,k,velar,1.312,prenuclear,no,0,4,4,usable,160.76,147.386048,
+6,drude,drud,voiced,2,65+0i,u,d,alveolar,1.376,prenuclear,no,0,3,3,not_usable,157.96,130.042039,VQ o ~ u
+6,schmaube,schmaub,voiced,10,71+0i,au,b,labial,1.4,prenuclear,no,0,3,3,usable,178.34,122.20974,
+6,quade,quad,voiced,20,73+0i,a,d,alveolar,1.336,prenuclear,no,1,3,3,usable,190.37,152.983431,
+6,frube,frub,voiced,14,74+0i,u,b,labial,1.432,prenuclear,no,0,3,3,usable,126.51,94.677588,
+6,quope,quop,voiceless,21,77+0i,o,p,labial,1.432,prenuclear,no,1,2,2,usable,146.96,122.106124,bw_release
+6,stauge,staug,voiced,24,78+0i,au,g,velar,1.448,prenuclear,no,0,3,3,usable,169.76,162.746401,
+6,pruke,pruk,voiceless,19,83+0i,u,k,velar,1.304,prenuclear,no,1,3,3,usable,92.5,76.9024,
+6,priege,prieg,voiced,18,87+0i,i,g,velar,1.336,prenuclear,no,0,5,5,usable,142.02,98.061049,
+6,mube,mub,voiced,17,88+0i,u,b,labial,1.408,prenuclear,no,1,4,4,usable,190.24,110.731443,NO RELEASE?
+6,flape,flap,voiceless,13,91+0i,a,p,labial,1.52,prenuclear,no,0,5,5,not_usable,109.48,137.714946,q
+6,schuke,schuk,voiceless,23,94+0i,u,k,velar,1.384,prenuclear,no,1,3,3,usable,113.14,87.1483,
+6,roke,rok,voiceless,22,99+0i,o,k,velar,1.408,prenuclear,no,1,2,2,usable,155.85,108.546424,
+6,gaude,gaud,voiced,15,104+0i,au,d,alveolar,1.44,prenuclear,no,0,3,3,usable,213.2,192.044382,
+6,jiete,jiet,voiceless,16,105+0i,i,t,alveolar,1.416,prenuclear,no,2,3,3,usable,140.71,87.240181,
+6,wiebe,wieb,voiced,12,112+0i,i,b,labial,1.376,prenuclear,no,0,4,4,usable,115.02,95.284917,
+6,griede,gried,voiced,7,117+0i,i,d,alveolar,1.424,prenuclear,no,0,5,5,not_usable,116.35,133.457649,VQ e
+6,drute,drut,voiceless,2,119+0i,u,t,alveolar,1.432,prenuclear,no,0,2,2,usable,111.7,133.479885,
+6,frade,frad,voiced,3,120+0i,a,d,alveolar,1.52,prenuclear,no,1,3,3,usable,198.19,158.20243,
+6,blote,blot,voiceless,1,122+0i,o,t,alveolar,1.504,prenuclear,no,2,2,2,usable,153.82,153.90014,
+6,gobe,gob,voiced,6,124+0i,o,b,labial,1.392,prenuclear,no,1,3,3,usable,153.2,130.65892,creaky voice
+6,schmaupe,schmaup,voiceless,10,126+0i,au,p,labial,1.576,prenuclear,no,0,3,3,usable,155.18,134.124316,
+6,schrieke,schriek,voiceless,11,130+0i,i,k,velar,1.528,prenuclear,no,1,3,3,not_usable,124.84,114.44152,VQ i  ~ e
+6,nauge,naug,voiced,9,132+0i,au,g,velar,1.592,prenuclear,no,0,4,4,usable,206.35,183.975564,
+6,froke,frok,voiceless,4,133+0i,o,k,velar,1.56,prenuclear,no,1,2,2,usable,131.4,120.407071,
+6,gage,gag,voiced,5,137+0i,a,g,velar,1.473970388,prenuclear,no,1,4,4,usable,220.77,194.276682,
+6,klape,klap,voiceless,8,143+0i,a,p,labial,1.516127313,prenuclear,no,1,2,2,usable,152.21,142.268259,cant detect bo; set sg
+11,wiepe,wiep,voiceless,12,1+0i,i,p,labial,1.312,prenuclear,no,2,3,3,usable,102.1,123.028322,
+11,griete,griet,voiceless,7,3+0i,i,t,alveolar,1.352,prenuclear,no,1,4,4,usable,102.61,135.936703,
+11,schriege,schrieg,voiced,11,4+0i,i,g,velar,1.392,prenuclear,no,0,5,5,usable,143.52,117.728517,
+11,nauke,nauk,voiceless,9,5+0i,au,k,velar,1.344,prenuclear,no,0,4,4,usable,160.76,209.665562,
+11,klabe,klab,voiced,8,10+0i,a,b,labial,1.312,prenuclear,no,1,2,2,usable,157.49,151.226259,
+11,drude,drud,voiced,2,14+0i,u,d,alveolar,1.32,prenuclear,no,0,3,3,usable,157.96,115.178414,
+11,blode,blod,voiced,1,16+0i,o,d,alveolar,1.272,prenuclear,no,2,2,2,usable,162.92,144.545726,
+11,froge,frog,voiced,4,21+0i,o,g,velar,1.272,prenuclear,no,1,2,2,usable,171.49,127.609191,
+11,frate,frat,voiceless,3,22+0i,a,t,alveolar,1.28,prenuclear,no,0,4,4,usable,144.68,135.611439,
+11,schmaube,schmaub,voiced,10,27+0i,au,b,labial,1.32,prenuclear,no,0,3,3,usable,178.34,129.539211,NO RELEASE
+11,gope,gop,voiceless,6,28+0i,o,p,labial,1.208,prenuclear,no,0,3,3,usable,120.77,114.739251,NO RELEASE
+11,gake,gak,voiceless,5,32+0i,a,k,velar,1.432,nuclear,yes,1,3,3,usable,195.59,201.44192,
+11,stauge,staug,voiced,24,38+0i,au,g,velar,1.312,prenuclear,no,0,3,3,usable,169.76,147.951661,
+11,schuke,schuk,voiceless,23,39+0i,u,k,velar,1.248,prenuclear,no,1,3,3,usable,113.14,90.390766,
+11,pruke,pruk,voiceless,19,44+0i,u,k,velar,1.288,prenuclear,no,1,3,3,usable,92.5,121.889552,
+11,quade,quad,voiced,20,46+0i,a,d,alveolar,1.304,prenuclear,no,1,3,3,usable,190.37,167.85545,
+11,gaude,gaud,voiced,15,47+0i,au,d,alveolar,1.248,prenuclear,no,0,3,3,usable,213.2,171.905893,
+11,mube,mub,voiced,17,48+0i,u,b,labial,1.232,prenuclear,no,1,4,4,usable,190.24,100.006447,NO RELEASE
+11,jiete,jiet,voiceless,16,52+0i,i,t,alveolar,1.224,nuclear,no,2,3,3,usable,140.71,73.806037,
+11,flape,flap,voiceless,13,58+0i,a,p,labial,1.36,prenuclear,no,0,5,5,usable,109.48,124.337986,NO RELEASE
+11,roke,rok,voiceless,22,59+0i,o,k,velar,1.2,prenuclear,no,1,2,2,usable,155.85,108.168238,
+11,quope,quop,voiceless,21,60+0i,o,p,labial,1.24,prenuclear,no,1,2,2,usable,146.96,100.422462,NO RELEASE
+11,frube,frub,voiced,14,65+0i,u,b,labial,1.248,prenuclear,no,0,3,3,usable,126.51,83.235853,NO RELEASE
+11,priege,prieg,voiced,18,68+0i,i,g,velar,1.2,prenuclear,no,0,5,5,usable,142.02,86.689929,
+11,wiebe,wieb,voiced,12,75+0i,i,b,labial,1.296,prenuclear,no,0,4,4,usable,115.02,131.700098,
+11,gobe,gob,voiced,6,76+0i,o,b,labial,1.232,prenuclear,no,1,3,3,usable,153.2,121.941065,NO RELEASE
+11,froke,frok,voiceless,4,77+0i,o,k,velar,1.272,prenuclear,no,1,2,2,usable,131.4,96.396883,
+11,schrieke,schriek,voiceless,11,78+0i,i,k,velar,1.304,prenuclear,no,1,3,3,usable,124.84,108.687378,
+11,nauge,naug,voiced,9,79+0i,au,g,velar,1.272,prenuclear,no,0,4,4,usable,206.35,172.065858,
+11,klape,klap,voiceless,8,81+0i,a,p,labial,1.304,prenuclear,no,1,2,2,usable,152.21,140.420104,NO RELEASE
+11,drute,drut,voiceless,2,83+0i,u,t,alveolar,1.344,prenuclear,no,0,2,2,usable,111.7,127.631687,
+11,griede,gried,voiced,7,87+0i,i,d,alveolar,1.256,prenuclear,no,0,5,5,usable,116.35,130.720963,
+11,schmaupe,schmaup,voiceless,10,90+0i,au,p,labial,1.272,prenuclear,no,0,3,3,not_usable,155.18,149.999686,WRONG CONSONANT
+11,blote,blot,voiceless,1,96+0i,o,t,alveolar,1.328,prenuclear,no,2,2,2,usable,153.82,154.267705,
+11,gage,gag,voiced,5,97+0i,a,g,velar,1.32,prenuclear,no,1,4,4,usable,220.77,199.398241,
+11,frade,frad,voiced,3,102+0i,a,d,alveolar,1.424,prenuclear,no,1,3,3,usable,198.19,163.255797,
+11,stauke,stauk,voiceless,24,110+0i,au,k,velar,1.304,prenuclear,no,0,2,2,usable,160.21,157.02873,
+11,quate,quat,voiceless,20,111+0i,a,t,alveolar,1.4,prenuclear,no,1,2,2,usable,164.52,179.827633,
+11,schuge,schug,voiced,23,114+0i,u,g,velar,1.376,prenuclear,no,0,4,4,usable,153.12,113.090398,
+11,prieke,priek,voiceless,18,115+0i,i,k,velar,1.344,prenuclear,no,1,3,3,usable,114.28,118.579747,
+11,roge,rog,voiced,22,117+0i,o,g,velar,1.296,prenuclear,no,0,4,4,usable,167.1,136.614809,
+11,gaute,gaut,voiceless,15,118+0i,au,t,alveolar,1.368,prenuclear,no,0,4,4,usable,164.88,198.777661,
+11,pruge,prug,voiced,19,122+0i,u,g,velar,1.336,prenuclear,no,0,3,3,usable,140.88,112.036681,
+11,frupe,frup,voiceless,14,129+0i,u,p,labial,1.312,prenuclear,no,1,3,3,usable,100.5,110.257591,NO RELEASE
+11,flabe,flab,voiced,13,130+0i,a,b,labial,1.392,prenuclear,no,1,3,3,usable,181.37,147.027017,NO RELEASE
+11,quobe,quob,voiced,21,132+0i,o,b,labial,1.32,prenuclear,no,0,3,3,usable,145.83,120.065977,NO RELEASE
+11,jiede,jied,voiced,16,135+0i,i,d,alveolar,1.24,prenuclear,no,0,5,5,not_usable,151.45,113.118281,VQ e
+11,mupe,mup,voiceless,17,139+0i,u,p,labial,1.352,prenuclear,no,1,1,1,usable,155.68,137.011564,
+7,quobe,quob,voiced,21,1+0i,o,b,labial,1.815150577,prenuclear,no,0,3,3,usable,145.83,129.620307,NO RELEASE?; set sg
+7,frupe,frup,voiceless,14,2+0i,u,p,labial,1.752,prenuclear,no,1,3,3,usable,100.5,71.492519,
+7,gaute,gaut,voiceless,15,3+0i,au,t,alveolar,1.512,prenuclear,no,0,4,4,usable,164.88,198.919071,
+7,stauke,stauk,voiceless,24,7+0i,au,k,velar,1.568,prenuclear,no,0,2,2,usable,160.21,169.305541,
+7,mupe,mup,voiceless,17,8+0i,u,p,labial,1.704,prenuclear,no,1,1,1,usable,155.68,102.676595,
+7,pruge,prug,voiced,19,14+0i,u,g,velar,1.752,prenuclear,no,0,3,3,usable,140.88,129.949985,
+7,roge,rog,voiced,22,16+0i,o,g,velar,1.752,prenuclear,no,0,4,4,usable,167.1,161.868311,
+7,flabe,flab,voiced,13,23+0i,a,b,labial,1.768,prenuclear,no,1,3,3,usable,181.37,152.482991,NO RELEASE?
+7,schuge,schug,voiced,23,24+0i,u,g,velar,2.848,prenuclear,no,0,4,4,usable,153.12,128.33501,
+7,jiede,jied,voiced,16,26+0i,i,d,alveolar,1.608,prenuclear,no,0,5,5,not_usable,151.45,129.583059,VQ e
+7,quate,quat,voiceless,20,32+0i,a,t,alveolar,1.704,prenuclear,no,1,2,2,usable,164.52,191.29576,
+7,prieke,priek,voiceless,18,34+0i,i,k,velar,1.752,prenuclear,no,1,3,3,not_usable,114.28,167.800723,VQ e
+7,gobe,gob,voiced,6,39+0i,o,b,labial,1.808,prenuclear,no,1,3,3,usable,153.2,179.730667,
+7,wiebe,wieb,voiced,12,40+0i,i,b,labial,1.84,prenuclear,no,0,4,4,usable,115.02,121.010349,
+7,schmaupe,schmaup,voiceless,10,44+0i,au,p,labial,1.616,prenuclear,no,0,3,3,usable,155.18,163.018373,NO RELEASE?; cant detect bo
+7,drute,drut,voiceless,2,48+0i,u,t,alveolar,1.52,prenuclear,no,0,2,2,usable,111.7,121.180532,
+7,gage,gag,voiced,5,51+0i,a,g,velar,1.624,prenuclear,no,1,4,4,usable,220.77,182.065133,
+7,nauge,naug,voiced,9,54+0i,au,g,velar,1.584,prenuclear,no,0,4,4,usable,206.35,177.440603,
+7,griede,gried,voiced,7,55+0i,i,d,alveolar,1.512,prenuclear,no,0,5,5,not_usable,116.35,129.608928,VQ e ~ i
+7,froke,frok,voiceless,4,57+0i,o,k,velar,1.632,prenuclear,no,1,2,2,usable,131.4,135.443947,
+7,frade,frad,voiced,3,60+0i,a,d,alveolar,2.368,prenuclear,no,1,3,3,usable,198.19,169.009378,NO RELEASE?
+7,blote,blot,voiceless,1,67+0i,o,t,alveolar,1.624,prenuclear,no,2,2,2,usable,153.82,154.686864,
+7,schrieke,schriek,voiceless,11,68+0i,i,k,velar,1.648,prenuclear,no,1,3,3,usable,124.84,127.910996,
+7,klape,klap,voiceless,8,69+0i,a,p,labial,1.608,prenuclear,no,1,2,2,usable,152.21,162.272803,
+7,quope,quop,voiceless,21,73+0i,o,p,labial,1.616,prenuclear,no,1,2,2,usable,146.96,150.987,
+7,stauge,staug,voiced,24,77+0i,au,g,velar,1.616,prenuclear,no,0,3,3,usable,169.76,193.674351,
+7,roke,rok,voiceless,22,79+0i,o,k,velar,1.712,prenuclear,no,1,2,2,usable,155.85,128.65546,
+7,gaude,gaud,voiced,15,80+0i,au,d,alveolar,1.744,deaccented,no,0,3,3,usable,213.2,214.729966,
+7,priege,prieg,voiced,18,84+0i,i,g,velar,1.744,deaccented,no,0,5,5,usable,142.02,133.020088,
+7,jiete,jiet,voiceless,16,85+0i,i,t,alveolar,1.712,prenuclear,no,2,3,3,usable,140.71,129.833851,
+7,pruke,pruk,voiceless,19,96+0i,u,k,velar,1.752,prenuclear,no,1,3,3,usable,92.5,131.547316,
+7,frube,frub,voiced,14,97+0i,u,b,labial,1.664,prenuclear,no,0,3,3,usable,126.51,109.580386,NO RELEASE?; whisper sound in /v/
+7,quade,quad,voiced,20,99+0i,a,d,alveolar,1.6,prenuclear,no,1,3,3,usable,190.37,181.508176,
+7,mube,mub,voiced,17,100+0i,u,b,labial,1.704,prenuclear,no,1,4,4,usable,190.24,108.388222,NO RELEASE?
+7,schuke,schuk,voiceless,23,101+0i,u,k,velar,1.696,prenuclear,no,1,3,3,usable,113.14,110.066147,
+7,flape,flap,voiceless,13,102+0i,a,b,labial,1.576,prenuclear,no,0,5,5,usable,109.48,140.870678,POPPING IN CLOSURE
+7,drude,drud,voiced,2,109+0i,u,d,alveolar,1.632,prenuclear,no,0,3,3,usable,157.96,146.95947,
+7,gake,gak,voiceless,5,114+0i,a,k,velar,1.624,prenuclear,no,1,3,3,usable,195.59,188.032782,
+7,wiepe,wiep,voiceless,12,115+0i,i,p,labial,1.68,prenuclear,no,2,3,3,usable,102.1,114.190106,POPPING IN CLOSURE; NO RELEASE?
+7,gope,gop,voiceless,6,121+0i,o,p,labial,1.568,prenuclear,no,0,3,3,usable,120.77,142.628435,
+7,nauke,nauk,voiceless,9,128+0i,au,k,velar,1.528,prenuclear,no,0,4,4,usable,160.76,189.351663,
+7,klabe,klab,voiced,8,132+0i,a,b,labial,1.648,deaccented,no,1,2,2,usable,157.49,143.934866,
+7,frate,frat,voiceless,3,133+0i,a,t,alveolar,1.616,prenuclear,no,0,4,4,usable,144.68,158.513228,
+7,griete,griet,voiceless,7,135+0i,i,t,alveolar,1.64,prenuclear,no,1,4,4,usable,102.61,133.63173,
+7,schriege,schrieg,voiced,11,136+0i,i,g,velar,1.624,prenuclear,no,0,5,5,usable,143.52,148.955188,
+7,blode,blod,voiced,1,138+0i,o,d,alveolar,1.624,prenuclear,no,2,2,2,usable,162.92,154.881859,
+7,schmaube,schmaub,voiced,10,142+0i,au,b,labial,1.696,prenuclear,no,0,3,3,usable,178.34,171.950339,
+7,froge,frog,voiced,4,143+0i,o,g,velar,1.712,prenuclear,no,1,2,2,usable,171.49,150.758144,
+10,klabe,klab,voiced,8,2+0i,a,b,labial,1.68,prenuclear,no,1,2,2,usable,157.49,180.552746,
+10,drude,drud,voiced,2,4+0i,u,d,alveolar,1.936,nuclear,yes,0,3,3,usable,157.96,164.071801,ambigue nucleus
+10,schmaube,schmaub,voiced,10,7+0i,au,b,labial,1.632,nuclear,yes,0,3,3,usable,178.34,194.137391,NO RELEASE?
+10,frate,frat,voiceless,3,13+0i,a,t,alveolar,1.672,nuclear,yes,0,4,4,usable,144.68,168.699,
+10,wiepe,wiep,voiceless,12,18+0i,i,p,labial,1.624,nuclear,yes,2,3,3,usable,102.1,130.813055,ambigue nucleus
+10,gake,gak,voiceless,5,20+0i,a,k,velar,1.776,nuclear,yes,1,3,3,usable,195.59,242.176535,ambigue nucleus
+10,gope,gop,voiceless,6,21+0i,o,p,labial,1.664,nuclear,yes,0,3,3,usable,120.77,145.836332,v elided; ambigue nucleus
+10,froge,frog,voiced,4,24+0i,o,g,velar,1.72,prenuclear,no,1,2,2,usable,171.49,173.3235,ambigue nucleus
+10,blode,blod,voiced,1,26+0i,o,d,alveolar,1.528,prenuclear,no,2,2,2,usable,162.92,168.070396,ambigue nucleus
+10,griete,griet,voiceless,7,30+0i,i,t,alveolar,1.68,prenuclear,no,1,4,4,usable,102.61,129.943453,
+10,schriege,schrieg,voiced,11,35+0i,i,g,velar,1.592,prenuclear,no,0,5,5,usable,143.52,113.850677,
+10,roge,rog,voiced,22,37+0i,o,g,velar,1.592,nuclear,yes,0,4,4,usable,167.1,203.261833,ambigue nucleus
+10,frupe,frup,voiceless,14,51+0i,u,p,labial,1.728,prenuclear,no,1,3,3,usable,100.5,127.629755,
+10,quobe,quob,voiced,21,52+0i,o,b,labial,1.616,nuclear,yes,0,3,3,usable,145.83,127.290284,NO RELEASE?; kop; ambigue nucleus
+10,stauke,stauk,voiceless,24,53+0i,au,k,velar,1.696,prenuclear,no,0,2,2,usable,160.21,209.111571,
+10,flabe,flab,voiced,13,58+0i,a,b,labial,1.656,nuclear,yes,1,3,3,usable,181.37,156.287715,
+10,prieke,priek,voiceless,18,60+0i,i,k,velar,1.624,prenuclear,no,1,3,3,usable,114.28,140.331142,
+10,pruge,prug,voiced,19,63+0i,u,g,velar,1.608,prenuclear,no,0,3,3,usable,140.88,120.284935,ambigue nucleus
+10,mupe,mup,voiceless,17,66+0i,u,p,labial,1.6,nuclear,yes,1,1,1,usable,155.68,87.051807,ambigue nucleus
+10,gaute,gaut,voiceless,15,69+0i,au,t,alveolar,1.576,prenuclear,no,0,4,4,usable,164.88,197.775833,
+10,schuge,schug,voiced,23,70+0i,u,g,velar,1.56,prenuclear,no,0,4,4,usable,153.12,108.983436,ambigue nucleus
+10,quate,quat,voiceless,20,72+0i,a,t,alveolar,1.576,prenuclear,no,1,2,2,usable,164.52,178.014425,
+10,nauge,naug,voiced,9,74+0i,au,g,velar,1.64,prenuclear,no,0,4,4,usable,206.35,219.173407,
+10,froke,frok,voiceless,4,76+0i,o,k,velar,1.64,prenuclear,no,1,2,2,usable,131.4,136.353786,
+10,gage,gag,voiced,5,83+0i,a,g,velar,1.6,prenuclear,no,1,4,4,usable,220.77,214.228138,
+10,frade,frad,voiced,3,88+0i,a,d,alveolar,1.696,nuclear,yes,1,3,3,usable,198.19,195.617113,ambigue nucleus
+10,wiebe,wieb,voiced,12,89+0i,i,b,labial,1.528,prenuclear,no,0,4,4,usable,115.02,129.224458,
+10,blote,blot,voiceless,1,94+0i,o,t,alveolar,1.6,prenuclear,no,2,2,2,usable,153.82,175.648972,
+10,gobe,gob,voiced,6,99+0i,o,b,labial,1.592,nuclear,no,1,3,3,usable,153.2,132.398297,ambigue nucleus
+10,schmaupe,schmaup,voiceless,10,100+0i,au,p,labial,1.608,prenuclear,no,0,3,3,usable,155.18,156.060799,NO RELEASE?;pf ; ambigue nucleus
+10,drute,drut,voiceless,2,101+0i,u,t,alveolar,1.632,prenuclear,no,0,2,2,usable,111.7,131.897321,
+10,griede,gried,voiced,7,104+0i,i,d,alveolar,1.696,nuclear,yes,0,5,5,usable,116.35,136.886682,ambigue nucleus
+10,klape,klap,voiceless,8,105+0i,a,p,labial,1.736,nuclear,yes,1,2,2,usable,152.21,176.486448,ambigue nucleus
+10,schrieke,schriek,voiceless,11,108+0i,i,k,velar,1.784,nuclear,yes,1,3,3,usable,124.84,167.934359,ambigue nucleus
+10,frube,frub,voiced,14,113+0i,u,b,labial,1.584,prenuclear,no,0,3,3,usable,126.51,104.59556,whisper sound; ambigue nucleus
+10,mube,mub,voiced,17,122+0i,u,b,labial,1.56,nuclear,yes,1,4,4,usable,190.24,125.785211,ambigue nucleus
+10,quope,quop,voiceless,21,123+0i,o,p,labial,1.536,prenuclear,no,1,2,2,usable,146.96,83.208083,NO RELEASE?; kop
+10,stauge,staug,voiced,24,126+0i,au,g,velar,1.696,prenuclear,no,0,3,3,usable,169.76,203.616188,
+10,roke,rok,voiceless,22,128+0i,o,k,velar,1.544,prenuclear,no,1,2,2,usable,155.85,147.558958,ambigue nucleus
+10,flape,flap,voiceless,13,129+0i,a,b,labial,1.68,prenuclear,no,0,5,5,usable,109.48,151.556746,NO RELEASE?; whisper sound
+10,jiete,jiet,voiceless,16,137+0i,i,t,alveolar,1.632,prenuclear,no,2,3,3,usable,140.71,109.212545,ambigue nucleus
+10,quade,quad,voiced,20,138+0i,o,d,alveolar,1.616,prenuclear,no,1,3,3,usable,190.37,176.405044,
+10,priege,prieg,voiced,18,139+0i,i,g,velar,1.576,prenuclear,no,0,5,5,usable,142.02,96.991365,ambigue nucleus
+10,schuke,schuk,voiceless,23,142+0i,u,k,velar,1.488,prenuclear,no,1,3,3,usable,113.14,93.395775,wollt' nicht mehr; ambigue nucleus
+10,pruke,pruk,voiceless,19,143+0i,u,k,velar,1.528,prenuclear,no,1,3,3,usable,92.5,98.356515,ambigue nucleus
+10,gaude,gaud,voiced,15,144+0i,au,d,alveolar,1.528,prenuclear,no,0,3,3,usable,213.2,217.382674,
+16,gaute,gaut,voiceless,15,1+0i,au,t,alveolar,1.312,prenuclear,no,0,4,4,usable,164.88,180.159941,
+16,roge,rog,voiced,22,2+0i,o,g,velar,1.464,prenuclear,no,0,4,4,usable,167.1,159.268637,
+16,schuge,schug,voiced,23,3+0i,u,g,velar,1.448,prenuclear,no,0,4,4,usable,153.12,126.514904,
+16,stauke,stauk,voiceless,24,13+0i,au,k,velar,1.432,prenuclear,no,0,2,2,usable,160.21,167.865264,
+16,prieke,priek,voiceless,18,18+0i,i,k,velar,1.576,prenuclear,no,1,3,3,not_usable,114.28,127.498262,[briek]
+16,mupe,mup,voiceless,17,20+0i,u,p,labial,1.216,prenuclear,no,1,1,1,usable,155.68,88.729322,focus on \ein\\\
+16,pruge,prug,voiced,19,26+0i,u,g,velar,1.488,prenuclear,no,0,3,3,usable,140.88,113.276932,
+16,flabe,flab,voiced,13,32+0i,a,b,labial,1.36,prenuclear,no,1,3,3,usable,181.37,120.603749,focus on \ein\\; NO RELEASE!!!\
+16,jiede,jied,voiced,16,33+0i,i,d,alveolar,1.4,prenuclear,no,0,5,5,not_usable,151.45,140.476421,VQ e + focus on \ein\\\
+16,klape,klap,voiceless,8,39+0i,a,p,labial,1.312,prenuclear,no,1,2,2,usable,152.21,106.376347,NO RELEASE
+16,schrieke,schriek,voiceless,11,42+0i,i,k,velar,1.44,deaccented,no,1,3,3,usable,124.84,106.937024,focus on \ein\\\
+16,wiebe,wieb,voiced,12,53+0i,i,b,labial,1.296,deaccented,no,0,4,4,usable,115.02,125.122374,focus on \ein\\\
+16,drute,drut,voiceless,2,57+0i,u,t,alveolar,1.344,prenuclear,no,0,2,2,usable,111.7,99.954044,focus on \ein\\\
+16,frade,frad,voiced,3,58+0i,a,d,alveolar,1.424,deaccented,no,1,3,3,usable,198.19,172.717923,focus on \ein\\\
+16,froke,frok,voiceless,4,59+0i,o,k,velar,1.392,prenuclear,no,1,2,2,usable,131.4,108.196998,focus on \ein\\\
+16,gobe,gob,voiced,6,60+0i,o,b,labial,1.36,prenuclear,no,1,3,3,usable,153.2,125.652278,focus on \ein\\; NO RELEASE\
+16,nauge,naug,voiced,9,62+0i,au,g,velar,1.384,prenuclear,no,0,4,4,usable,206.35,188.762411,focus on \ein\\\
+16,griede,gried,voiced,7,66+0i,i,d,alveolar,1.44,prenuclear,no,0,0,5,usable,116.35,116.698791,focus on \ein\\\
+16,blote,blot,voiceless,1,68+0i,o,t,alveolar,1.432,prenuclear,no,2,2,2,usable,153.82,141.44473,focus on \ein\\\
+16,gage,gag,voiced,5,69+0i,a,g,velar,1.432,deaccented,no,1,4,4,usable,220.77,195.51039,focus on \ein\\\
+16,schmaupe,schmaup,voiceless,10,70+0i,au,p,labial,1.52,prenuclear,no,0,3,3,usable,155.18,141.458045,focus on \ein\\\
+16,schuke,schuk,voiceless,23,75+0i,u,k,velar,1.392,prenuclear,no,1,3,3,usable,113.14,99.886649,focus on \ein\\\
+16,gaude,gaud,voiced,15,76+0i,au,d,alveolar,1.48,prenuclear,no,0,3,3,usable,213.2,199.464533,focus on \ein\\\
+16,mube,mub,voiced,17,78+0i,u,b,labial,1.336,prenuclear,no,1,4,4,usable,190.24,118.232291,focus on \ein\\\
+16,quope,quop,voiceless,21,79+0i,o,p,labial,1.448,prenuclear,no,1,2,2,usable,146.96,116.22619,focus on \ein\\\
+16,stauge,staug,voiced,24,82+0i,au,g,velar,1.488,prenuclear,no,0,3,3,usable,169.76,168.896244,focus on \ein\\\
+16,jiete,jiet,voiceless,16,83+0i,i,t,alveolar,1.432,prenuclear,no,2,3,3,usable,140.71,93.548799,
+16,roke,rok,voiceless,22,97+0i,o,k,velar,1.368,prenuclear,no,1,2,2,usable,155.85,125.813924,
+16,priege,prieg,voiced,18,98+0i,i,g,velar,1.504,prenuclear,no,0,5,5,usable,142.02,108.758164,focus on \ein\\\
+16,frube,frub,voiced,14,101+0i,u,b,labial,1.456,prenuclear,no,0,3,3,usable,126.51,107.608323,focus on \ein\\; NO RELEASE\
+16,flape,flap,voiceless,13,102+0i,a,p,labial,1.528,deaccented,no,0,5,5,usable,109.48,139.624107,focus on \ein\\\
+16,pruke,pruk,voiceless,19,104+0i,u,k,velar,1.472,prenuclear,no,1,3,3,usable,92.5,108.56115,focus on \ein\\\
+16,quade,quad,voiced,20,108+0i,a,d,alveolar,1.384,prenuclear,no,1,3,3,usable,190.37,139.614717,
+16,griete,griet,voiceless,7,109+0i,i,t,alveolar,1.432,prenuclear,no,1,4,4,usable,102.61,109.967341,focus on \ein\\; [krit] like the other one\
+16,froge,frog,voiced,4,111+0i,o,g,velar,1.368,prenuclear,no,1,2,2,usable,171.49,155.888639,
+16,schriege,schrieg,voiced,11,112+0i,i,g,velar,1.4,prenuclear,no,0,5,5,usable,143.52,131.43419,
+16,drude,drud,voiced,2,114+0i,u,d,alveolar,1.424,prenuclear,no,0,3,3,usable,157.96,115.488258,
+16,wiepe,wiep,voiceless,12,118+0i,i,p,labial,1.408,prenuclear,no,2,3,3,usable,102.1,123.097678,
+16,gake,gak,voiceless,5,123+0i,a,k,velar,1.304,prenuclear,no,1,3,3,usable,195.59,161.528447,target deaccented? 
+16,schmaube,schmaub,voiced,10,125+0i,au,b,labial,1.472,prenuclear,no,0,3,3,not_usable,178.34,129.749367,transition vocoid after burst
+16,frate,frat,voiceless,3,131+0i,a,t,alveolar,1.384,prenuclear,no,0,4,4,usable,144.68,129.652877,
+16,nauke,nauk,voiceless,9,132+0i,au,k,velar,1.6,prenuclear,no,0,4,4,usable,160.76,163.1093,
+16,blode,blod,voiced,1,140+0i,o,d,alveolar,1.328,prenuclear,no,2,2,2,usable,162.92,135.363049,
+16,gope,gop,voiceless,6,141+0i,o,p,labial,1.384,prenuclear,no,0,3,3,usable,120.77,133.891183,
+16,klabe,klab,voiced,8,142+0i,a,b,labial,1.408,prenuclear,no,1,2,2,usable,157.49,141.956993,NO RELEASE
+5,pruke,pruk,voiceless,19,1+0i,u,k,velar,1.44,nuclear,yes,1,3,3,usable,92.5,133.23925,
+5,jiete,jiet,voiceless,16,5+0i,i,t,alveolar,1.432,prenuclear,no,2,3,3,usable,140.71,152.410529,POPPING SHORTLY AFTER RELEASE
+5,flape,flap,voiceless,13,7+0i,a,p,labial,1.432,nuclear,yes,0,5,5,usable,109.48,163.40138,
+5,stauge,staug,voiced,24,17+0i,au,g,velar,1.496,nuclear,yes,0,3,3,usable,169.76,169.811892,
+5,frube,frub,voiced,14,20+0i,u,b,labial,1.224,nuclear,no,0,3,3,not_usable,126.51,126.58493,VQ o
+5,quope,quop,voiceless,21,24+0i,o,p,labial,1.536,nuclear,yes,1,2,2,usable,146.96,153.851274,
+5,gaude,gaud,voiced,15,25+0i,au,d,alveolar,1.432,nuclear,yes,0,3,3,usable,213.2,197.496132,
+5,mube,mub,voiced,17,27+0i,u,b,labial,1.376,nuclear,yes,1,4,4,not_usable,190.24,123.464286,mbub?
+5,schuke,schuk,voiceless,23,28+0i,u,k,velar,1.496,nuclear,yes,1,3,3,usable,113.14,131.629617,
+5,roke,rok,voiceless,22,32+0i,u,k,velar,1.44,nuclear,yes,1,2,2,usable,155.85,155.789436,
+5,quade,quad,voiced,20,34+0i,a,d,alveolar,1.456,nuclear,yes,1,3,3,usable,190.37,217.967186,
+5,priege,prieg,voiced,18,35+0i,i,g,velar,1.368,nuclear,yes,0,5,5,usable,142.02,142.649968,
+5,gope,gop,voiceless,6,37+0i,o,p,labial,1.384,nuclear,yes,0,3,3,usable,120.77,155.306236,Rauschen
+5,griete,griet,voiceless,7,38+0i,i,t,alveolar,1.504,nuclear,yes,1,4,4,usable,102.61,162.566749,Rauschen
+5,nauke,nauk,voiceless,9,39+0i,au,k,velar,1.352,nuclear,yes,0,4,4,usable,160.76,167.888535,Rauschen
+5,blode,blod,voiced,1,40+0i,o,d,alveolar,1.368,nuclear,yes,2,2,2,usable,162.92,161.981901,
+5,frate,frat,voiceless,3,41+0i,a,t,alveolar,1.44,nuclear,yes,0,4,4,usable,144.68,169.174351,
+5,wiepe,wiep,voiceless,12,48+0i,i,p,labial,1.44,nuclear,yes,2,3,3,usable,102.1,140.138034,
+5,schmaube,schmaub,voiced,10,61+0i,au,b,labial,1.52,nuclear,yes,0,3,3,usable,178.34,170.388129,
+5,schriege,schrieg,voiced,11,62+0i,i,g,velar,1.792,nuclear,yes,0,5,5,usable,143.52,144.518755,
+5,klabe,klab,voiced,8,64+0i,a,b,labial,1.472,nuclear,yes,1,2,2,not_usable,157.49,189.454977,no stop 
+5,froge,frog,voiced,4,68+0i,o,g,velar,1.544,nuclear,yes,1,2,2,usable,171.49,171.069289,
+5,drude,drud,voiced,2,70+0i,u,d,alveolar,1.384,nuclear,yes,0,3,3,usable,157.96,161.622183,
+5,gake,gak,voiceless,5,72+0i,a,k,velar,1.448,nuclear,yes,1,3,3,usable,195.59,197.290145,
+5,prieke,priek,voiceless,18,78+0i,i,k,velar,1.504,nuclear,yes,1,3,3,usable,114.28,88.662389,
+5,flabe,flab,voiced,13,82+0i,a,b,labial,1.624,nuclear,yes,1,3,3,usable,181.37,187.343036,
+5,pruge,prug,voiced,19,83+0i,u,g,velar,1.875584218,nuclear,yes,0,3,3,not_usable,140.88,170.744262,hesitation onset
+5,frupe,frup,voiceless,14,84+0i,u,p,labial,1.608,nuclear,yes,1,3,3,usable,100.5,142.894963,
+5,mupe,mup,voiceless,17,87+0i,u,p,labial,1.488,nuclear,yes,1,1,1,not_usable,155.68,111.096907,wup ?
+5,stauke,stauk,voiceless,24,92+0i,au,k,velar,1.464,nuclear,yes,0,2,2,usable,160.21,159.386338,
+5,roge,rog,voiced,22,93+0i,o,g,velar,1.496,nuclear,yes,0,4,4,usable,167.1,192.67421,
+5,jiede,jied,voiced,16,96+0i,i,d,alveolar,1.496,nuclear,yes,0,5,5,usable,151.45,131.018858,
+5,quobe,quob,voiced,21,98+0i,o,b,labial,1.536,nuclear,yes,0,3,3,usable,145.83,143.695975,
+5,schuge,schug,voiced,23,99+0i,u,g,velar,1.392,nuclear,yes,0,4,4,usable,153.12,152.583703,
+5,quate,quat,voiceless,20,100+0i,a,t,alveolar,1.456,prenuclear,no,1,2,2,usable,164.52,172.93788,
+5,gaute,gaut,voiceless,15,101+0i,au,t,alveolar,1.52,nuclear,yes,0,4,4,usable,164.88,198.654251,
+5,nauge,naug,voiced,9,111+0i,au,g,velar,1.584,nuclear,yes,0,4,4,usable,206.35,214.720881,
+5,blote,blot,voiceless,1,112+0i,o,t,alveolar,1.544,nuclear,yes,2,2,2,usable,153.82,150.811735,
+5,gobe,gob,voiced,6,115+0i,o,b,labial,1.496,nuclear,yes,1,3,3,usable,153.2,202.975057,
+5,schmaupe,schmaup,voiceless,10,116+0i,au,p,labial,1.536,nuclear,yes,0,3,3,usable,155.18,138.576568,
+5,frade,frad,voiced,3,117+0i,a,d,alveolar,1.536,nuclear,yes,1,3,3,usable,198.19,211.318516,
+5,griede,gried,voiced,7,118+0i,i,d,alveolar,1.496,nuclear,yes,0,5,5,usable,116.35,166.318041,
+5,froke,frok,voiceless,4,121+0i,o,k,velar,1.52,nuclear,yes,1,2,2,usable,131.4,137.51392,
+5,wiebe,wieb,voiced,12,122+0i,i,b,labial,1.584,nuclear,yes,0,4,4,usable,115.02,144.377254,
+5,klape,klap,voiceless,8,131+0i,a,p,labial,1.544,nuclear,yes,1,2,2,usable,152.21,170.046721,
+5,gage,gag,voiced,5,133+0i,a,g,velar,1.512,nuclear,yes,1,4,4,usable,220.77,257.583253,
+5,schrieke,schriek,voiceless,11,136+0i,i,k,velar,1.552,nuclear,yes,1,3,3,usable,124.84,148.944548,
+14,flabe,flab,voiced,13,2+0i,a,b,labial,1.856,nuclear,yes,1,3,3,usable,181.37,264.27027,lengthened?
+14,roge,rog,voiced,22,5+0i,o,g,velar,1.784,nuclear,yes,0,4,4,usable,167.1,204.170843,
+14,prieke,priek,voiceless,18,15+0i,i,k,velar,1.648,nuclear,yes,1,3,3,not_usable,114.28,184.888352,VQ e
+14,quobe,quob,voiced,21,17+0i,o,b,labial,1.712,nuclear,yes,0,3,3,usable,145.83,175.204535,NO RELEASE; PF-RELEASE
+14,jiede,jied,voiced,16,18+0i,i,d,alveolar,1.688,nuclear,yes,0,5,5,not_usable,151.45,191.536099,VQ
+14,stauke,stauk,voiceless,24,19+0i,au,k,velar,1.824,nuclear,yes,0,2,2,usable,160.21,242.100585,
+14,gaute,gaut,voiceless,15,22+0i,au,t,alveolar,1.752,prenuclear,no,0,4,4,usable,164.88,232.224657,
+14,schuge,schug,voiced,23,23+0i,u,g,velar,1.808,nuclear,yes,0,4,4,usable,153.12,157.538287,
+14,pruge,prug,voiced,19,25+0i,u,g,velar,1.784,nuclear,yes,0,3,3,not_usable,140.88,197.00428,VQ? o or u
+14,quate,quat,voiceless,20,29+0i,a,t,alveolar,1.944,nuclear,yes,1,2,2,usable,164.52,274.521695,
+14,mupe,mup,voiceless,17,32+0i,u,p,labial,1.696,nuclear,yes,1,1,1,usable,155.68,111.547484,
+14,frupe,frup,voiceless,14,34+0i,u,p,labial,1.792,nuclear,yes,1,3,3,usable,100.5,154.951996,
+14,blode,blod,voiced,1,37+0i,o,d,alveolar,1.744,prenuclear,no,2,2,2,usable,162.92,229.469302,
+14,froge,frog,voiced,4,38+0i,o,g,velar,1.856,nuclear,yes,1,2,2,usable,171.49,220.74891,
+14,gake,gak,voiceless,5,42+0i,a,k,velar,1.784,prenuclear,no,1,3,3,usable,195.59,279.247999,
+14,drude,drud,voiced,2,43+0i,u,d,alveolar,1.888,nuclear,yes,0,3,3,usable,157.96,189.377937,
+14,wiepe,wiep,voiceless,12,47+0i,i,p,labial,1.888,nuclear,yes,2,3,3,usable,102.1,149.838789,
+14,gope,gop,voiceless,6,48+0i,o,p,labial,1.688,nuclear,yes,0,3,3,usable,120.77,201.863246,
+14,schriege,schrieg,voiced,11,52+0i,i,g,velar,2,nuclear,yes,0,5,5,usable,143.52,179.755811,
+14,klabe,klab,voiced,8,60+0i,a,b,labial,2.008,nuclear,yes,1,2,2,usable,157.49,291.797928,
+14,griete,griet,voiceless,7,65+0i,i,t,alveolar,1.808,prenuclear,no,1,4,4,usable,102.61,153.252379,
+14,nauke,nauk,voiceless,9,66+0i,au,k,velar,1.832,prenuclear,no,0,4,4,usable,160.76,253.952053,
+14,schmaube,schmaub,voiced,10,68+0i,au,b,labial,2.008,nuclear,yes,0,3,3,usable,178.34,215.572291,
+14,frate,frat,voiceless,3,72+0i,a,t,alveolar,1.96,nuclear,yes,0,4,4,usable,144.68,283.050546,
+14,flape,flap,voiceless,13,73+0i,a,p,labial,1.8,nuclear,yes,0,5,5,usable,109.48,244.362042,
+14,quope,quop,voiceless,21,82+0i,o,p,labial,1.84,nuclear,yes,1,2,2,usable,146.96,206.159448,
+14,stauge,staug,voiced,24,87+0i,au,g,velar,1.968,nuclear,yes,0,3,3,usable,169.76,252.819315,
+14,schuke,schuk,voiceless,23,89+0i,u,k,velar,1.824,nuclear,yes,1,3,3,usable,113.14,151.363905,
+14,mube,mub,voiced,17,90+0i,o,b,labial,1.752,nuclear,yes,1,4,4,not_usable,190.24,182.019705,VQ o
+14,priege,prieg,voiced,18,92+0i,i,g,velar,1.776,nuclear,yes,0,5,5,not_usable,142.02,197.837253,VQ e
+14,frube,frub,voiced,14,93+0i,u,b,labial,1.92,nuclear,yes,0,3,3,usable,126.51,200.72192,
+14,gaude,gaud,voiced,15,94+0i,au,d,alveolar,1.888,nuclear,yes,0,3,3,usable,213.2,261.110527,
+14,quade,quad,voiced,20,95+0i,a,d,alveolar,1.936,nuclear,yes,1,3,3,usable,190.37,306.015581,
+14,roke,rok,voiceless,22,98+0i,o,k,velar,1.848,nuclear,yes,1,2,2,usable,155.85,229.866032,
+14,jiete,jiet,voiceless,16,103+0i,i,t,alveolar,1.777747915,nuclear,yes,2,3,3,not_usable,140.71,105.135083,VQ e
+14,pruke,pruk,voiceless,19,104+0i,u,k,velar,1.792,nuclear,yes,1,3,3,usable,92.5,145.993554,
+14,blote,blot,voiceless,1,111+0i,o,t,alveolar,1.848,nuclear,yes,2,2,2,usable,153.82,213.781734,
+14,frade,frad,voiced,3,114+0i,a,d,alveolar,1.912,nuclear,yes,1,3,3,usable,198.19,262.397521,
+14,wiebe,wieb,voiced,12,123+0i,i,b,labial,1.888,nuclear,yes,0,4,4,usable,115.02,155.841384,
+14,schrieke,schriek,voiceless,11,126+0i,i,k,velar,1.88,nuclear,yes,1,3,3,usable,124.84,166.942802,
+14,klape,klap,voiceless,8,127+0i,a,p,labial,1.904,nuclear,yes,1,2,2,usable,152.21,278.544185,
+14,schmaupe,schmaup,voiceless,10,128+0i,au,p,labial,1.88,nuclear,yes,0,3,3,usable,155.18,222.372642,
+14,froke,frok,voiceless,4,131+0i,o,k,velar,1.824,nuclear,yes,1,2,2,usable,131.4,197.766117,
+14,gobe,gob,voiced,6,134+0i,o,b,labial,1.744,nuclear,yes,1,3,3,usable,153.2,208.553802,
+14,gage,gag,voiced,5,137+0i,a,g,velar,1.768,nuclear,yes,1,4,4,usable,220.77,256.46498,
+14,nauge,naug,voiced,9,138+0i,au,g,velar,1.696,nuclear,yes,0,4,4,usable,206.35,243.549892,
+14,drute,drut,voiceless,2,141+0i,u,t,alveolar,1.832,nuclear,yes,0,2,2,usable,111.7,189.804625,
+14,griede,gried,voiced,7,143+0i,i,d,alveolar,2.032,nuclear,yes,0,5,5,usable,116.35,212.064727,
+3,nauke,nauk,voiceless,9,5+0i,au,k,velar,1.336,prenuclear,no,0,4,4,usable,160.76,152.960008,
+3,frate,frat,voiceless,3,6+0i,a,t,alveolar,1.416,prenuclear,no,0,4,4,usable,144.68,136.245721,
+3,blode,blod,voiced,1,7+0i,o,d,alveolar,1.304,prenuclear,no,2,2,2,usable,162.92,102.895193,
+3,griete,griet,voiceless,7,8+0i,i,t,alveolar,1.304,nuclear,yes,1,4,4,usable,102.61,125.452813,
+3,schmaube,schmaub,voiced,10,15+0i,au,b,labial,1.384,nuclear,no,0,3,3,usable,178.34,152.309747,NO RELEASE?
+3,klabe,klab,voiced,8,18+0i,a,b,labial,1.344,nuclear,no,1,2,2,usable,157.49,166.837472,whisper sound
+3,gope,gop,voiceless,6,24+0i,o,p,labial,1.256,prenuclear,no,0,3,3,usable,120.77,119.572564,
+3,drude,drud,voiced,2,26+0i,u,d,alveolar,1.232,prenuclear,no,0,3,3,usable,157.96,77.44771,
+3,froge,frog,voiced,4,28+0i,o,g,velar,1.288,prenuclear,no,1,2,2,usable,171.49,99.487148,
+3,gake,gak,voiceless,5,30+0i,a,k,velar,1.176,prenuclear,no,1,3,3,usable,195.59,149.912861,
+3,wiepe,wiep,voiceless,12,34+0i,i,p,labial,1.24,prenuclear,no,2,3,3,usable,102.1,109.019652,NO RELEASE?
+3,schriege,schrieg,voiced,11,35+0i,i,g,velar,1.312,prenuclear,no,0,5,5,usable,143.52,85.498523,
+3,frupe,frup,voiceless,14,39+0i,u,p,labial,1.4,prenuclear,no,1,3,3,usable,100.5,88.019346,Rauschen
+3,mupe,mup,voiceless,17,40+0i,u,p,labial,1.264,prenuclear,no,1,1,1,usable,155.68,108.67453,NO RELEASE?
+3,flabe,flab,voiced,13,45+0i,a,b,labial,1.296,prenuclear,no,1,3,3,usable,181.37,92.555273,
+3,roge,rog,voiced,22,48+0i,o,g,velar,1.304,prenuclear,no,0,4,4,usable,167.1,145.824556,
+3,pruge,prug,voiced,19,52+0i,u,g,velar,1.36,prenuclear,no,0,3,3,usable,140.88,70.567328,
+3,quate,quat,voiceless,20,54+0i,a,t,alveolar,1.456,prenuclear,no,1,2,2,usable,164.52,165.259083,
+3,jiede,jied,voiced,16,55+0i,i,d,alveolar,1.32,prenuclear,no,0,5,5,usable,151.45,54.911583,
+3,quobe,quob,voiced,21,60+0i,o,b,labial,1.424,prenuclear,no,0,3,3,usable,145.83,121.125848,
+3,gaute,gaut,voiceless,15,62+0i,au,t,alveolar,1.28,prenuclear,no,0,4,4,usable,164.88,160.594147,
+3,prieke,priek,voiceless,18,64+0i,i,k,velar,1.272,prenuclear,no,1,3,3,usable,114.28,83.30999,
+3,schuge,schug,voiced,23,68+0i,u,g,velar,1.392,prenuclear,no,0,4,4,usable,153.12,78.995211,
+3,stauke,stauk,voiceless,24,69+0i,au,k,velar,1.584,nuclear,yes,0,2,2,usable,160.21,152.607916,
+3,schmaupe,schmaup,voiceless,10,80+0i,au,p,labial,1.48,nuclear,yes,0,3,3,usable,155.18,126.767898,NO RELEASE?
+3,nauge,naug,voiced,9,82+0i,au,g,velar,1.416,prenuclear,no,0,4,4,usable,206.35,181.860652,
+3,blote,blot,voiceless,1,84+0i,o,t,alveolar,1.512,prenuclear,no,2,2,2,usable,153.82,114.601885,
+3,froke,frok,voiceless,4,86+0i,o,k,velar,1.416,prenuclear,no,1,2,2,usable,131.4,112.799877,
+3,frade,frad,voiced,3,87+0i,a,d,alveolar,1.504,prenuclear,no,1,3,3,usable,198.19,183.46961,
+3,drute,drut,voiceless,2,92+0i,u,t,alveolar,1.48,prenuclear,no,0,2,2,usable,111.7,120.777139,
+3,klape,klap,voiceless,8,93+0i,a,p,labial,1.392,prenuclear,no,1,2,2,usable,152.21,157.343608,NO RELEASE?
+3,gage,gag,voiced,5,95+0i,a,g,velar,1.408,prenuclear,no,1,4,4,usable,220.77,169.154856,
+3,griede,gried,voiced,7,96+0i,i,d,alveolar,1.4,prenuclear,no,0,5,5,usable,116.35,92.173449,
+3,schrieke,schriek,voiceless,11,102+0i,i,k,velar,1.448,prenuclear,no,1,3,3,usable,124.84,120.964881,
+3,wiebe,wieb,voiced,12,103+0i,i,b,labial,1.352,prenuclear,no,0,4,4,usable,115.02,108.096761,NO RELEASE?
+3,gobe,gob,voiced,6,104+0i,o,b,labial,1.48,prenuclear,no,1,3,3,usable,153.2,124.256401,NO RELEASE?
+3,jiete,jiet,voiceless,16,111+0i,i,t,alveolar,2.336,nuclear,yes,2,3,3,usable,140.71,143.292841,
+3,priege,prieg,voiced,18,112+0i,i,g,velar,1.44,prenuclear,no,0,5,5,usable,142.02,103.175136,
+3,flape,flap,voiceless,13,118+0i,a,p,labial,1.416,prenuclear,no,0,5,5,usable,109.48,134.170964,NO RELEASE?
+3,quade,quad,voiced,20,121+0i,a,d,alveolar,1.424,prenuclear,no,1,3,3,usable,190.37,71.772598,
+3,pruke,pruk,voiceless,19,127+0i,u,k,velar,1.44,prenuclear,no,1,3,3,usable,92.5,82.02988,
+3,quope,quop,voiceless,21,129+0i,o,p,labial,1.384,prenuclear,no,1,2,2,usable,146.96,111.381475,
+3,frube,frub,voiced,14,131+0i,u,b,labial,1.36,prenuclear,no,0,3,3,usable,126.51,102.982642,
+3,mube,mub,voiced,17,134+0i,u,b,labial,1.368,prenuclear,no,1,4,4,usable,190.24,135.227015,
+3,gaude,gaud,voiced,15,138+0i,au,d,alveolar,1.448,nuclear,yes,0,3,3,usable,213.2,157.047706,
+3,schuke,schuk,voiceless,23,140+0i,u,k,velar,1.408,prenuclear,no,1,3,3,usable,113.14,97.776905,
+3,stauge,staug,voiced,24,141+0i,au,g,velar,1.376,prenuclear,no,0,3,3,usable,169.76,162.184892,
+3,roke,rok,voiceless,22,144+0i,o,k,velar,1.288,nuclear,no,1,2,2,usable,155.85,102.235514,
+4,froge,frog,voiced,4,2+0i,o,g,velar,1.704,nuclear,yes,1,2,2,usable,171.49,159.616489,
+4,frate,frat,voiceless,3,10+0i,a,t,alveolar,1.64,prenuclear,no,0,4,4,usable,144.68,180.574304,
+4,wiepe,wiep,voiceless,12,12+0i,i,p,labial,1.56,nuclear,yes,2,3,3,usable,102.1,141.49473,
+4,nauke,nauk,voiceless,9,15+0i,au,k,velar,1.528,prenuclear,no,0,4,4,usable,160.76,198.191498,
+4,gake,gak,voiceless,5,16+0i,a,k,velar,1.592,nuclear,yes,1,3,3,not_usable,195.59,188.534967,EJECTIVE?
+4,schmaube,schmaub,voiced,10,17+0i,au,b,labial,1.536,prenuclear,no,0,3,3,usable,178.34,146.018732,cant detect bo; NO RELEASE?
+4,blode,blod,voiced,1,24+0i,o,d,alveolar,1.504,prenuclear,no,2,2,2,usable,162.92,167.963425,
+4,schriege,schrieg,voiced,11,26+0i,i,g,velar,1.584,prenuclear,no,0,5,5,usable,143.52,156.112958,
+4,gope,gop,voiceless,6,30+0i,o,p,labial,1.48,prenuclear,no,0,3,3,usable,120.77,135.953478,NO RELEASE?
+4,griete,griet,voiceless,7,31+0i,i,t,alveolar,1.44,prenuclear,no,1,4,4,usable,102.61,126.474589,
+4,quade,quad,voiced,20,41+0i,a,d,alveolar,1.408,prenuclear,no,1,3,3,usable,190.37,167.284083,
+4,gaude,gaud,voiced,15,46+0i,au,d,alveolar,1.416,prenuclear,no,0,3,3,usable,213.2,172.736705,
+4,pruke,pruk,voiceless,19,50+0i,u,k,velar,1.512,prenuclear,no,1,3,3,usable,92.5,114.58948,
+4,stauge,staug,voiced,24,53+0i,au,g,velar,1.472,prenuclear,no,0,3,3,usable,169.76,175.384257,
+4,quope,quop,voiceless,21,54+0i,o,p,labial,1.464,prenuclear,no,1,2,2,usable,146.96,124.952751,
+4,roke,rok,voiceless,22,57+0i,o,k,velar,1.448,prenuclear,no,1,2,2,usable,155.85,175.973482,
+4,jiete,jiet,voiceless,16,59+0i,i,t,alveolar,1.456,prenuclear,no,2,3,3,usable,140.71,80.385361,
+4,schuke,schuk,voiceless,23,61+0i,u,k,velar,1.44,prenuclear,no,1,3,3,usable,113.14,111.818614,
+4,priege,prieg,voiced,18,64+0i,i,g,velar,1.452023466,prenuclear,no,0,5,5,usable,142.02,120.438062,
+4,frube,frub,voiced,14,65+0i,u,b,labial,1.48,prenuclear,no,0,3,3,usable,126.51,127.292998,VQ o; GET RID OF THIS
+4,mube,mub,voiced,17,66+0i,u,b,labial,1.4,prenuclear,no,1,4,4,usable,190.24,119.236462,whisper sound in /v/
+4,flape,flap,voiceless,13,70+0i,a,p,labial,1.464,prenuclear,no,0,5,5,usable,109.48,158.927287,whisper sound in /v/
+4,drute,drut,voiceless,2,73+0i,u,t,alveolar,1.44,prenuclear,no,0,2,2,usable,111.7,121.143524,
+4,gage,gag,voiced,5,74+0i,a,g,velar,1.4,prenuclear,no,1,4,4,usable,220.77,180.380092,
+4,klape,klap,voiceless,8,76+0i,a,p,labial,1.514218859,prenuclear,no,1,2,2,usable,152.21,188.084064,whisper sound in /v/
+4,schmaupe,schmaup,voiceless,10,85+0i,au,p,labial,1.496,prenuclear,no,0,3,3,usable,155.18,154.370621,wrong stop k; GET RID OF THIS
+4,wiebe,wieb,voiced,12,88+0i,i,b,labial,1.376,prenuclear,no,0,4,4,usable,115.02,125.316705,whisper sound in /v/; NO RELEASE?
+4,griede,gried,voiced,7,91+0i,i,d,alveolar,1.512,prenuclear,no,0,5,5,usable,116.35,113.283907,
+4,schrieke,schriek,voiceless,11,94+0i,i,k,velar,1.504,prenuclear,no,1,3,3,usable,124.84,159.620869,
+4,gobe,gob,voiced,6,101+0i,o,b,labial,1.416,prenuclear,no,1,3,3,usable,153.2,149.240509,NO RELEASE?
+4,blote,blot,voiceless,1,102+0i,o,t,alveolar,1.424,prenuclear,no,2,2,2,usable,153.82,161.02467,
+4,frade,frad,voiced,3,103+0i,a,d,alveolar,1.48,prenuclear,no,1,3,3,usable,198.19,165.641172,
+4,nauge,naug,voiced,9,108+0i,au,g,velar,1.376,prenuclear,no,0,4,4,usable,206.35,189.408363,
+4,jiede,jied,voiced,16,110+0i,i,d,alveolar,1.561677555,prenuclear,no,0,5,5,not_usable,151.45,126.654559,VQ e
+4,roge,rog,voiced,22,112+0i,o,g,velar,1.392,prenuclear,no,0,4,4,usable,167.1,158.329105,
+4,frupe,frup,voiceless,14,118+0i,u,p,labial,1.456,prenuclear,no,1,3,3,usable,100.5,132.599335,whisper sound in /v/
+4,mupe,mup,voiceless,17,119+0i,u,p,labial,1.392,prenuclear,no,1,1,1,usable,155.68,134.901268,cant detect bo; NO RELEASE?
+4,gaute,gaut,voiceless,15,120+0i,au,t,alveolar,1.4,nuclear,no,0,4,4,usable,164.88,177.932793,
+4,stauke,stauk,voiceless,24,123+0i,au,k,velar,1.488,prenuclear,no,0,2,2,usable,160.21,175.026213,
+4,quobe,quob,voiced,21,126+0i,o,b,labial,1.589326503,prenuclear,no,0,3,3,not_usable,145.83,148.397359,DELAYED RELEASE?; GET RID OF THIS
+4,pruge,prug,voiced,19,129+0i,u,g,velar,1.619825315,prenuclear,no,0,3,3,not_usable,140.88,107.096156,VQ o; RELEASE IS NOT AUDIBLE AT ALL
+4,schuge,schug,voiced,23,131+0i,u,g,velar,1.44,prenuclear,no,0,4,4,usable,153.12,119.057229,
+4,flabe,flab,voiced,13,135+0i,a,b,labial,1.496,prenuclear,no,1,3,3,usable,181.37,155.158806,
+4,prieke,priek,voiceless,18,138+0i,i,k,velar,1.416936149,prenuclear,no,1,3,3,usable,114.28,113.146614,
+4,quate,quat,voiceless,20,141+0i,a,t,alveolar,1.384,prenuclear,no,1,2,2,usable,164.52,161.938193,
+9,schrieke,schriek,voiceless,11,5+0i,i,k,velar,1.616,prenuclear,no,1,3,3,not_usable,124.84,106.332939,EJECTIVE?
+9,blote,blot,voiceless,1,12+0i,o,t,alveolar,1.944,nuclear,yes,2,2,2,usable,153.82,173.052262,hesitation
+9,froke,frok,voiceless,4,14+0i,o,k,velar,1.792,deaccented,yes,1,2,2,not_usable,131.4,146.755707,hesitation
+9,gobe,gob,voiced,6,17+0i,o,b,labial,1.608,prenuclear,no,1,3,3,usable,153.2,135.307747,NO RELEASE?
+9,klape,klap,voiceless,8,19+0i,a,p,labial,1.816,nuclear,yes,1,2,2,not_usable,152.21,138.513782,hesitation; NO RELEASE
+9,nauge,naug,voiced,9,21+0i,au,g,velar,1.712,nuclear,yes,0,4,4,not_usable,206.35,195.53318,hesitation
+9,drute,drut,voiceless,2,22+0i,u,t,alveolar,1.792,nuclear,yes,0,2,2,not_usable,111.7,162.427626,hesitation
+9,griede,gried,voiced,7,23+0i,i,d,alveolar,1.528,prenuclear,no,0,5,5,usable,116.35,127.994846,
+9,wiebe,wieb,voiced,12,25+0i,i,b,labial,1.456,prenuclear,no,0,4,4,usable,115.02,117.293931,PFOLLTE NICHT MEHR
+9,schmaupe,schmaup,voiceless,10,28+0i,au,p,labial,1.792,NA,NA,0,3,3,not_usable,155.18,135.440679,hesitation; GET RID OF THIS; SOMETHING STRANGE HAPPENED HERE
+9,frade,frad,voiced,3,34+0i,a,d,alveolar,1.536,prenuclear,no,1,3,3,usable,198.19,192.483858,
+9,gage,gag,voiced,5,35+0i,a,g,velar,1.528,nuclear,yes,1,4,4,usable,220.77,203.539798,
+9,quobe,quob,voiced,21,40+0i,o,b,labial,1.76,nuclear,yes,0,3,3,usable,145.83,126.40764,NO RELEASE?
+9,jiede,jied,voiced,16,44+0i,i,d,alveolar,1.768,nuclear,yes,0,5,5,not_usable,151.45,187.416902,VQ e; hesitation
+9,mupe,mup,voiceless,17,48+0i,u,p,labial,1.616,nuclear,yes,1,1,1,usable,155.68,117.854507,hesitation; STRANGE GLOTTAL ACTIVITY AFTER RELEASE
+9,flabe,flab,voiced,13,51+0i,a,b,labial,1.776,nuclear,yes,1,3,3,not_usable,181.37,176.428558,NO RELEASE?; hesitation
+9,gaute,gaut,voiceless,15,52+0i,au,t,alveolar,1.488,nuclear,yes,0,4,4,usable,164.88,199.621224,
+9,quate,quat,voiceless,20,53+0i,a,t,alveolar,1.536,nuclear,yes,1,2,2,usable,164.52,168.520751,
+9,roge,rog,voiced,22,56+0i,o,g,velar,1.688,nuclear,yes,0,4,4,usable,167.1,149.586644,
+9,prieke,priek,voiceless,18,57+0i,i,k,velar,1.632,nuclear,yes,1,3,3,usable,114.28,119.418613,
+9,stauke,stauk,voiceless,24,60+0i,au,k,velar,1.816,nuclear,yes,0,2,2,usable,160.21,145.383307,
+9,pruge,prug,voiced,19,62+0i,u,g,velar,1.576,nuclear,yes,0,3,3,not_usable,140.88,122.810269,VQ o
+9,frupe,frup,voiceless,14,71+0i,u,p,labial,1.784,nuclear,yes,1,3,3,usable,100.5,105.319185,NO RELEASE?
+9,schriege,schrieg,voiced,11,77+0i,i,g,velar,1.904,nuclear,yes,0,5,5,usable,143.52,141.646259,
+9,drude,drud,voiced,2,78+0i,u,d,alveolar,1.744,nuclear,yes,0,3,3,usable,157.96,147.067829,
+9,klabe,klab,voiced,8,80+0i,a,b,labial,1.792,nuclear,yes,1,2,2,usable,157.49,183.868579,NO RELEASE?
+9,blode,blod,voiced,1,82+0i,o,d,alveolar,1.984,nuclear,yes,2,2,2,not_usable,162.92,186.781413,hesitation
+9,schmaube,schmaub,voiced,10,84+0i,au,b,labial,2.104,nuclear,yes,0,3,3,usable,178.34,164.323547,
+9,gake,gak,voiceless,5,89+0i,a,k,velar,1.632,nuclear,yes,1,3,3,usable,195.59,220.00557,
+9,nauke,nauk,voiceless,9,90+0i,au,k,velar,1.72,nuclear,yes,0,4,4,usable,160.76,189.197407,
+9,wiepe,wiep,voiceless,12,94+0i,i,p,labial,1.792,nuclear,yes,2,3,3,usable,102.1,142.902508,
+9,gope,gop,voiceless,6,95+0i,o,p,labial,2.088,nuclear,yes,0,3,3,usable,120.77,149.879783,
+9,griete,griet,voiceless,7,100+0i,i,t,alveolar,1.752,nuclear,yes,1,4,4,usable,102.61,138.93323,
+9,froge,frog,voiced,4,103+0i,o,g,velar,1.6,prenuclear,no,1,2,2,usable,171.49,158.711143,
+9,frate,frat,voiceless,3,106+0i,a,t,alveolar,1.88,nuclear,yes,0,4,4,usable,144.68,230.986989,
+9,quope,quop,voiceless,21,109+0i,o,p,labial,1.976,nuclear,yes,1,2,2,usable,146.96,148.672454,
+9,roke,rok,voiceless,22,115+0i,o,k,velar,1.976,nuclear,yes,1,2,2,usable,155.85,147.310459,
+9,schuke,schuk,voiceless,23,116+0i,u,k,velar,1.984,nuclear,yes,1,3,3,usable,113.14,140.571229,
+9,quade,quad,voiced,20,117+0i,a,d,alveolar,1.84,nuclear,yes,1,3,3,usable,190.37,221.273052,
+9,flape,flap,voiceless,13,122+0i,a,p,labial,1.696,nuclear,yes,0,5,5,usable,109.48,197.334093,NO RELEASE?
+9,frube,frub,voiced,14,129+0i,u,b,labial,1.744,prenuclear,no,0,3,3,usable,126.51,142.154294,NO RELEASE?
+9,jiete,jiet,voiceless,16,130+0i,i,t,alveolar,1.672,prenuclear,no,2,3,3,usable,140.71,143.866457,
+9,stauge,staug,voiced,24,131+0i,au,g,velar,1.584,prenuclear,no,0,3,3,usable,169.76,160.207341,
+9,priege,prieg,voiced,18,136+0i,i,g,velar,2.224,nuclear,yes,0,5,5,not_usable,142.02,177.4707,GET RID OF THIS; CLICKING NOISE + STRANGE GLOTTAL ACTIVITY + HESITATION
+9,mube,mub,voiced,17,138+0i,u,b,labial,1.824,nuclear,yes,1,4,4,usable,190.24,169.046468,
+9,pruke,pruk,voiceless,19,142+0i,u,k,velar,1.968,nuclear,yes,1,3,3,usable,92.5,130.16249,
+2,schmaupe,schmaup,voiceless,10,1+0i,au,p,labial,1.136,prenuclear,no,0,3,3,usable,155.18,124.839685,NO AUDIBLE RELEASE
+2,nauge,naug,voiced,9,7+0i,au,g,velar,1.208,prenuclear,no,0,4,4,usable,206.35,176.263344,
+2,gage,gag,voiced,5,9+0i,a,g,velar,1.168,prenuclear,no,1,4,4,usable,220.77,164.880994,RELEASE IS NOT AUDIBLE
+2,schrieke,schriek,voiceless,11,11+0i,i,k,velar,1.224,prenuclear,no,1,3,3,usable,124.84,92.768776,
+2,drute,drut,voiceless,2,14+0i,u,t,alveolar,1.144,prenuclear,no,0,2,2,usable,111.7,74.03848,AFFRICATED RELEASE
+2,blote,blot,voiceless,1,16+0i,o,t,alveolar,1.2,prenuclear,no,2,2,2,usable,153.82,123.663279,AFFRICATED RELEASE
+2,griede,gried,voiced,7,25+0i,i,d,alveolar,1.144,prenuclear,no,0,5,5,usable,116.35,109.378356,
+2,klape,klap,voiceless,8,26+0i,a,p,labial,1.184,prenuclear,no,1,2,2,usable,152.21,151.180169,NO AUDIBLE RELEASE
+2,gobe,gob,voiced,6,27+0i,o,b,labial,1.024,prenuclear,no,1,3,3,usable,153.2,103.218496,cant identify bo; PFOLLTE
+2,froke,frok,voiceless,4,31+0i,o,k,velar,1.24,prenuclear,no,1,2,2,usable,131.4,95.322409,NO RELEASE? RELEASE NOT AUDIBLE
+2,frade,frad,voiced,3,32+0i,a,d,alveolar,1.168,prenuclear,no,1,3,3,usable,198.19,139.420814,
+2,wiebe,wieb,voiced,12,33+0i,i,b,labial,1.112,prenuclear,no,0,4,4,usable,115.02,118.181128,NO RELEASE
+2,gaute,gaut,voiceless,15,50+0i,au,t,alveolar,1.16,prenuclear,no,0,4,4,usable,164.88,177.936641,CREAKINESS IN VOWEL
+2,schuge,schug,voiced,23,51+0i,u,g,velar,1.2,prenuclear,no,0,4,4,usable,153.12,75.611731,RELEASE NOT AUDIBLE
+2,flabe,flab,voiced,13,52+0i,a,b,labial,1.152,prenuclear,no,1,3,3,usable,181.37,131.750503,NO AUDIBLE RELEASE?
+2,jiede,jied,voiced,16,54+0i,i,d,alveolar,1.168,prenuclear,no,0,5,5,not_usable,151.45,118.396309,VQ e
+2,quate,quat,voiceless,20,59+0i,a,t,alveolar,1.216,prenuclear,no,1,2,2,usable,164.52,141.792665,
+2,mupe,mup,voiceless,17,60+0i,u,p,labial,1.168,prenuclear,no,1,1,1,usable,155.68,104.929052,
+2,roge,rog,voiced,22,63+0i,o,g,velar,1.144,prenuclear,no,0,4,4,usable,167.1,126.508881,
+2,quobe,quob,voiced,21,65+0i,o,b,labial,1.12,prenuclear,no,0,3,3,usable,145.83,112.837275,NO RELEASE?
+2,pruge,prug,voiced,19,68+0i,u,g,velar,1.2,prenuclear,no,0,3,3,usable,140.88,80.080227,NO RELEASE
+2,stauke,stauk,voiceless,24,69+0i,au,k,velar,1.184,prenuclear,no,0,2,2,usable,160.21,149.412414,
+2,frupe,frup,voiceless,14,70+0i,u,p,labial,1.2,deaccented,no,1,3,3,usable,100.5,97.609616,AFFRICATED RELEASE
+2,prieke,priek,voiceless,18,71+0i,i,k,velar,1.216,prenuclear,no,1,3,3,usable,114.28,106.919016,
+2,gope,gop,voiceless,6,74+0i,o,p,labial,1.168,prenuclear,no,0,3,3,usable,120.77,107.679455,NO RELEASE?
+2,gake,gak,voiceless,5,75+0i,a,k,velar,1.24,prenuclear,no,1,3,3,usable,195.59,180.3399,
+2,drude,drud,voiced,2,82+0i,u,d,alveolar,1.184,prenuclear,no,0,3,3,usable,157.96,100.113942,
+2,nauke,nauk,voiceless,9,84+0i,au,k,velar,1.12,prenuclear,no,0,4,4,usable,160.76,165.804523,
+2,froge,frog,voiced,4,85+0i,o,g,velar,1.264,prenuclear,no,1,2,2,usable,171.49,117.529425,
+2,schriege,schrieg,voiced,11,88+0i,i,g,velar,1.176,prenuclear,no,0,5,5,usable,143.52,137.901473,
+2,blode,blod,voiced,1,94+0i,o,d,alveolar,1.16,prenuclear,no,2,2,2,usable,162.92,143.009015,
+2,klabe,klab,voiced,8,95+0i,a,b,labial,1.28,prenuclear,no,1,2,2,usable,157.49,150.151746,NO RELEASE
+2,schmaube,schmaub,voiced,10,97+0i,au,b,labial,1.24,prenuclear,no,0,3,3,usable,178.34,133.08196,AFFRICATED RELEASE
+2,wiepe,wiep,voiceless,12,104+0i,i,p,labial,1.152,prenuclear,no,2,3,3,usable,102.1,94.217584,NO RELEASE
+2,griete,griet,voiceless,7,107+0i,i,t,alveolar,1.192,prenuclear,no,1,4,4,usable,102.61,91.607695,
+2,frate,frat,voiceless,3,108+0i,a,t,alveolar,1.216,prenuclear,no,0,4,4,usable,144.68,141.812191,
+2,pruke,pruk,voiceless,19,111+0i,u,k,velar,1.128,prenuclear,no,1,3,3,usable,92.5,87.2368,NOT AUDIBLE
+2,jiete,jiet,voiceless,16,112+0i,i,t,alveolar,1.184,prenuclear,no,2,3,3,usable,140.71,91.597673,
+2,priege,prieg,voiced,18,116+0i,i,g,velar,1.264,prenuclear,no,0,5,5,usable,142.02,124.368323,
+2,mube,mub,voiced,17,123+0i,u,b,labial,1.184,prenuclear,no,1,4,4,usable,190.24,99.967936,AFFRICATED RELEASE
+2,roke,rok,voiceless,22,125+0i,o,k,velar,1.232,prenuclear,no,1,2,2,usable,155.85,61.091443,
+2,schuke,schuk,voiceless,23,127+0i,u,k,velar,1.144,prenuclear,no,1,3,3,usable,113.14,92.218354,
+2,quade,quad,voiced,20,128+0i,a,d,alveolar,1.224,prenuclear,no,1,3,3,usable,190.37,159.671045,
+2,gaude,gaud,voiced,15,129+0i,au,d,alveolar,1.128,prenuclear,no,0,3,3,usable,213.2,177.459381,
+2,frube,frub,voiced,14,130+0i,u,b,labial,1.2,prenuclear,no,0,3,3,usable,126.51,111.052964,NO RELEASE?
+2,flape,flap,voiceless,13,131+0i,a,p,labial,1.208,prenuclear,no,0,5,5,usable,109.48,141.340512,PFOLLTE AFFRICATED RELEASE
+2,quope,quop,voiceless,21,141+0i,o,p,labial,1.208,prenuclear,no,1,2,2,usable,146.96,125.180945,AFFRICATED RELEASE
+2,stauge,staug,voiced,24,142+0i,au,g,velar,1.24,prenuclear,no,0,3,3,usable,169.76,168.963552,
+8,blote,blot,voiceless,1,1+0i,o,t,alveolar,1.56,nuclear,yes,2,2,2,usable,153.82,145.951911,
+8,frade,frad,voiced,3,3+0i,a,d,alveolar,1.712,nuclear,yes,1,3,3,usable,198.19,198.500532,
+8,schmaupe,schmaup,voiceless,10,5+0i,au,p,labial,1.648,nuclear,yes,0,3,3,usable,155.18,173.873183,
+8,schrieke,schriek,voiceless,11,7+0i,i,k,velar,1.744,nuclear,yes,1,3,3,usable,124.84,142.330159,
+8,nauge,naug,voiced,9,10+0i,au,g,velar,1.624,nuclear,yes,0,4,4,usable,206.35,205.542661,
+8,griede,gried,voiced,7,13+0i,i,d,alveolar,1.696,nuclear,yes,0,5,5,usable,116.35,173.806785,
+8,froke,frok,voiceless,4,16+0i,o,k,velar,1.76,nuclear,yes,1,2,2,usable,131.4,128.310798,
+8,drute,drut,voiceless,2,18+0i,u,t,alveolar,1.664,nuclear,yes,0,2,2,usable,111.7,143.407681,
+8,klape,klap,voiceless,8,20+0i,a,p,labial,1.68,nuclear,yes,1,2,2,usable,152.21,166.497923,
+8,wiebe,wieb,voiced,12,31+0i,i,b,labial,1.6,nuclear,yes,0,4,4,usable,115.02,146.518243,
+8,gage,gag,voiced,5,32+0i,a,g,velar,1.76,nuclear,yes,1,4,4,usable,220.77,200.734396,
+8,gobe,gob,voiced,6,36+0i,o,b,labial,1.688,nuclear,yes,1,3,3,usable,153.2,154.583054,
+8,flape,flap,voiceless,13,38+0i,a,p,labial,1.728,nuclear,yes,0,5,5,usable,109.48,167.244918,
+8,priege,prieg,voiced,18,41+0i,i,g,velar,1.656,nuclear,yes,0,5,5,usable,142.02,158.877731,
+8,mube,mub,voiced,17,47+0i,u,b,labial,1.672,nuclear,yes,1,4,4,usable,190.24,156.365052,
+8,schuke,schuk,voiceless,23,48+0i,u,k,velar,1.688,nuclear,yes,1,3,3,usable,113.14,129.742623,
+8,jiete,jiet,voiceless,16,52+0i,i,t,alveolar,1.648,nuclear,yes,2,3,3,usable,140.71,133.927927,
+8,pruke,pruk,voiceless,19,57+0i,u,k,velar,1.744,nuclear,yes,1,3,3,usable,92.5,134.086026,
+8,quade,quad,voiced,20,60+0i,a,d,alveolar,1.68,nuclear,yes,1,3,3,usable,190.37,218.592976,
+8,gaude,gaud,voiced,15,61+0i,au,d,alveolar,1.672,nuclear,yes,0,3,3,usable,213.2,223.111029,
+8,quope,quop,voiceless,21,64+0i,o,p,labial,1.688,nuclear,yes,1,2,2,usable,146.96,166.904638,
+8,stauge,staug,voiced,24,65+0i,au,g,velar,1.688,nuclear,yes,0,3,3,usable,169.76,185.161586,
+8,roke,rok,voiceless,22,67+0i,o,k,velar,1.76,nuclear,yes,1,2,2,usable,155.85,166.670159,
+8,frube,frub,voiced,14,70+0i,u,b,labial,1.776,nuclear,yes,0,3,3,usable,126.51,113.70306,
+8,froge,frog,voiced,4,73+0i,o,g,velar,1.592,nuclear,yes,1,2,2,usable,171.49,157.743844,
+8,blode,blod,voiced,1,74+0i,o,d,alveolar,1.744,nuclear,yes,2,2,2,usable,162.92,178.091011,
+8,frate,frat,voiceless,3,78+0i,a,t,alveolar,1.808,nuclear,yes,0,4,4,usable,144.68,201.52923,
+8,schriege,schrieg,voiced,11,80+0i,i,g,velar,1.832,nuclear,yes,0,5,5,usable,143.52,165.628581,
+8,drude,drud,voiced,2,81+0i,u,d,alveolar,1.656,nuclear,yes,0,3,3,usable,157.96,178.661818,
+8,gope,gop,voiceless,6,82+0i,o,p,labial,1.64,nuclear,yes,0,3,3,usable,120.77,145.597456,
+8,nauke,nauk,voiceless,9,84+0i,au,k,velar,1.592,nuclear,yes,0,4,4,usable,160.76,197.366049,
+8,klabe,klab,voiced,8,93+0i,a,b,labial,1.816,nuclear,yes,1,2,2,usable,157.49,179.399663,
+8,gake,gak,voiceless,5,94+0i,a,k,velar,1.736,nuclear,yes,1,3,3,usable,195.59,210.973516,
+8,griete,griet,voiceless,7,96+0i,i,t,alveolar,1.616,nuclear,yes,1,4,4,usable,102.61,126.044139,
+8,schmaube,schmaub,voiced,10,101+0i,au,b,labial,1.712,nuclear,yes,0,3,3,usable,178.34,164.336755,
+8,wiepe,wiep,voiceless,12,103+0i,i,p,labial,1.6,nuclear,yes,2,3,3,usable,102.1,139.126008,
+8,flabe,flab,voiced,13,110+0i,a,b,labial,1.728,nuclear,yes,1,3,3,usable,181.37,172.898319,
+8,schuge,schug,voiced,23,119+0i,u,g,velar,1.688,nuclear,yes,0,4,4,usable,153.12,143.707102,
+8,prieke,priek,voiceless,18,121+0i,i,k,velar,1.584,nuclear,yes,1,3,3,usable,114.28,150.998554,
+8,quate,quat,voiceless,20,122+0i,a,t,alveolar,1.648,nuclear,yes,1,2,2,usable,164.52,196.799231,
+8,roge,rog,voiced,22,126+0i,o,g,velar,1.728,nuclear,yes,0,4,4,usable,167.1,178.470959,
+8,frupe,frup,voiceless,14,128+0i,u,p,labial,1.68,nuclear,yes,1,3,3,usable,100.5,131.178623,
+8,pruge,prug,voiced,19,131+0i,u,g,velar,1.76,nuclear,yes,0,3,3,usable,140.88,152.33914,
+8,gaute,gaut,voiceless,15,132+0i,au,t,alveolar,1.656,nuclear,yes,0,4,4,usable,164.88,219.339941,
+8,jiede,jied,voiced,16,136+0i,i,d,alveolar,1.632,nuclear,yes,0,5,5,usable,151.45,165.983536,
+8,mupe,mup,voiceless,17,138+0i,u,p,labial,1.584,nuclear,yes,1,1,1,usable,155.68,142.032158,
+8,quobe,quob,voiced,21,139+0i,o,b,labial,1.736,nuclear,yes,0,3,3,usable,145.83,201.686808,
+8,stauke,stauk,voiceless,24,140+0i,au,k,velar,1.72,nuclear,yes,0,2,2,usable,160.21,199.680238,
+1,schmaupe,schmaup,voiceless,10,2+0i,au,p,labial,1.6,nuclear,no,0,3,3,usable,155.18,206.832658,RELEASE IS NOT AUDIBLE TO ME
+1,frade,frad,voiced,3,6+0i,a,d,alveolar,1.528,nuclear,no,1,3,3,usable,198.19,209.016959,RELEASE IS NOT AUDIBLE TO ME
+1,gobe,gob,voiced,6,8+0i,o,b,labial,1.448,nuclear,no,1,3,3,not_usable,153.2,174.772392,slimy; AFFRICATED RELEASE
+1,froke,frok,voiceless,4,16+0i,o,k,velar,1.656,nuclear,no,1,2,2,usable,131.4,165.616024,RELEASE IS NOT AUDIBLE TO ME
+1,gage,gag,voiced,5,19+0i,a,g,velar,1.528,nuclear,no,1,4,4,not_usable,220.77,262.58424,stop? no bo; NO RELEASE; GET RID OF THIS
+1,nauge,naug,voiced,9,21+0i,au,g,velar,1.64,prenuclear,no,0,4,4,usable,206.35,260.731153,
+1,blote,blot,voiceless,1,28+0i,o,t,alveolar,1.664,nuclear,no,2,2,2,usable,153.82,202.188223,
+1,klape,klap,voiceless,8,29+0i,a,p,labial,1.536,prenuclear,no,1,2,2,usable,152.21,197.459721,NO RELEASE?; DEFINITELY NOT AUDIBLE
+1,drute,drut,voiceless,2,30+0i,u,t,alveolar,1.496,prenuclear,no,0,2,2,usable,111.7,165.725944,
+1,wiebe,wieb,voiced,12,31+0i,i,b,labial,1.512,prenuclear,no,0,4,4,usable,115.02,159.482129,cant identify bo; NO RELEASE
+1,schrieke,schriek,voiceless,11,33+0i,i,k,velar,1.624,nuclear,yes,1,3,3,usable,124.84,170.18337,
+1,griede,gried,voiced,7,35+0i,i,d,alveolar,1.48,prenuclear,no,0,5,5,usable,116.35,168.790959,
+1,quope,quop,voiceless,21,37+0i,o,p,labial,1.464,prenuclear,no,1,2,2,usable,146.96,155.440552,Rauschen; NO BURST/RELEASE
+1,pruke,pruk,voiceless,19,39+0i,u,k,velar,1.488,prenuclear,no,1,3,3,usable,92.5,140.074949,Rauschen
+1,jiete,jiet,voiceless,16,40+0i,i,t,alveolar,1.472,prenuclear,no,2,3,3,usable,140.71,114.474569,
+1,frube,frub,voiced,14,42+0i,u,b,labial,1.632,prenuclear,no,0,3,3,usable,126.51,134.496266,NO RELEASE?
+1,priege,prieg,voiced,18,45+0i,i,g,velar,1.776,prenuclear,no,0,5,5,not_usable,142.02,203.968354,VQ e; RELEASE NOT AUDIBLE
+1,gaude,gaud,voiced,15,54+0i,au,d,alveolar,1.64,prenuclear,no,0,3,3,usable,213.2,295.400099,COMPLETELY VOICED
+1,quade,quad,voiced,20,57+0i,a,d,alveolar,1.752,prenuclear,no,1,3,3,usable,190.37,249.067157,
+1,mube,mub,voiced,17,58+0i,u,b,labial,1.616,prenuclear,yes,1,4,4,usable,190.24,192.626272,burst?; NO RELEASE
+1,flape,flap,voiceless,13,60+0i,a,p,labial,1.696,prenuclear,no,0,5,5,usable,109.48,214.57366,NO RELEASE?
+1,roke,rok,voiceless,22,63+0i,o,k,velar,1.76,prenuclear,no,1,2,2,usable,155.85,210.222744,
+1,stauge,staug,voiced,24,65+0i,au,g,velar,2.493873406,prenuclear,no,0,3,3,not_usable,169.76,246.624782,hesitation; NO AUDIBLE RELEASE
+1,schuke,schuk,voiceless,23,70+0i,u,k,velar,1.688,prenuclear,no,1,3,3,usable,113.14,161.202929,
+1,gake,gak,voiceless,5,74+0i,a,k,velar,1.688,prenuclear,no,1,3,3,usable,195.59,276.921649,
+1,griete,griet,voiceless,7,81+0i,i,t,alveolar,1.704,prenuclear,no,1,4,4,usable,102.61,168.051535,
+1,frate,frat,voiceless,3,82+0i,a,t,alveolar,1.696,prenuclear,no,0,4,4,usable,144.68,231.424614,
+1,gope,gop,voiceless,6,92+0i,o,p,labial,1.632,prenuclear,no,0,3,3,usable,120.77,193.839896,NO RELEASE?
+1,drude,drud,voiced,2,96+0i,u,d,alveolar,1.84,prenuclear,no,0,3,3,usable,157.96,259.89777,
+1,nauke,nauk,voiceless,9,97+0i,au,k,velar,1.84,prenuclear,no,0,4,4,usable,160.76,264.772146,
+1,schmaube,schmaub,voiced,10,99+0i,au,b,labial,1.808,prenuclear,no,0,3,3,usable,178.34,227.400717,NO RELEASE?
+1,blode,blod,voiced,1,102+0i,o,d,alveolar,1.8,prenuclear,no,2,2,2,usable,162.92,247.786075,
+1,froge,frog,voiced,4,103+0i,o,g,velar,1.808,prenuclear,no,1,2,2,usable,171.49,239.211908,NO RELEASE? NOT AUDIBLE DEFINITELY
+1,wiepe,wiep,voiceless,12,104+0i,i,p,labial,2.008,nuclear,yes,2,3,3,usable,102.1,229.656274,
+1,schriege,schrieg,voiced,11,106+0i,i,g,velar,2.072,nuclear,yes,0,5,5,usable,143.52,233.172529,
+1,quobe,quob,voiced,21,109+0i,o,b,labial,1.6,prenuclear,no,0,3,3,usable,145.83,218.536377,NO RELEASE?
+1,pruge,prug,voiced,19,116+0i,u,g,velar,1.928,prenuclear,no,0,3,3,usable,140.88,239.008212,
+1,mupe,mup,voiceless,17,119+0i,u,p,labial,1.728,prenuclear,no,1,1,1,usable,155.68,183.648105,NO RELEASE
+1,roge,rog,voiced,22,123+0i,o,g,velar,1.76,prenuclear,no,0,4,4,usable,167.1,243.283973,
+1,prieke,priek,voiceless,18,124+0i,i,k,velar,1.76,prenuclear,no,1,3,3,usable,114.28,192.075487,
+1,quate,quat,voiceless,20,125+0i,a,t,alveolar,1.704,prenuclear,no,1,2,2,usable,164.52,270.058806,
+1,jiede,jied,voiced,16,126+0i,i,d,alveolar,1.744,prenuclear,no,0,5,5,not_usable,151.45,208.699389,VQ e
+1,gaute,gaut,voiceless,15,136+0i,au,t,alveolar,1.744,prenuclear,no,0,4,4,usable,164.88,269.610923,
+1,frupe,frup,voiceless,14,138+0i,u,p,labial,1.952,nuclear,yes,1,3,3,usable,100.5,181.950915,
+1,stauke,stauk,voiceless,24,139+0i,au,k,velar,1.84,prenuclear,no,0,2,2,usable,160.21,251.412302,
+1,schuge,schug,voiced,23,143+0i,u,g,velar,1.792,prenuclear,no,0,4,4,usable,153.12,240.968716,
+12,jiete,jiet,voiceless,16,1+0i,i,t,alveolar,1.616,prenuclear,no,2,3,3,usable,140.71,105.00414,lengthened
+12,quope,quop,voiceless,21,7+0i,o,p,labial,1.648,nuclear,yes,1,2,2,usable,146.96,139.934042,
+12,mube,mub,voiced,17,10+0i,u,b,labial,1.56,prenuclear,no,1,4,4,usable,190.24,155.334955,
+12,schuke,schuk,voiceless,23,11+0i,u,k,velar,1.584,prenuclear,no,1,3,3,usable,113.14,107.906321,
+12,gaude,gaud,voiced,15,14+0i,au,d,alveolar,1.56,prenuclear,no,0,3,3,usable,213.2,224.698296,
+12,pruke,pruk,voiceless,19,15+0i,u,k,velar,1.576,prenuclear,no,1,3,3,usable,92.5,100.003766,
+12,stauge,staug,voiced,24,17+0i,au,g,velar,1.736,nuclear,yes,0,3,3,usable,169.76,230.705606,
+12,flape,flap,voiceless,13,29+0i,a,p,labial,1.672,nuclear,yes,0,5,5,usable,109.48,178.250595,
+12,roke,rok,voiceless,22,30+0i,o,k,velar,1.832,nuclear,yes,1,2,2,usable,155.85,191.054606,
+12,frube,frub,voiced,14,33+0i,u,b,labial,1.568,prenuclear,no,0,3,3,usable,126.51,114.182741,
+12,quade,quad,voiced,20,35+0i,a,d,alveolar,1.616,nuclear,yes,1,3,3,usable,190.37,198.568653,
+12,drute,drut,voiceless,2,43+0i,u,t,alveolar,1.592,prenuclear,no,0,2,2,usable,111.7,140.611195,
+12,wiebe,wieb,voiced,12,53+0i,i,b,labial,1.592,nuclear,yes,0,4,4,usable,115.02,148.176983,
+12,schmaupe,schmaup,voiceless,10,54+0i,au,p,labial,1.624,prenuclear,no,0,3,3,usable,155.18,173.410324,
+12,gobe,gob,voiced,6,56+0i,o,b,labial,1.392,prenuclear,no,1,3,3,usable,153.2,136.193091,
+12,griede,gried,voiced,7,57+0i,i,d,alveolar,1.448,prenuclear,no,0,5,5,usable,116.35,134.540221,
+12,gage,gag,voiced,5,62+0i,a,g,velar,1.536,nuclear,yes,1,4,4,usable,220.77,226.896373,
+12,blote,blot,voiceless,1,64+0i,o,t,alveolar,1.656,nuclear,yes,2,2,2,not_usable,153.82,177.881876,hesitation after EIN
+12,nauge,naug,voiced,9,65+0i,au,g,velar,1.648,nuclear,yes,0,4,4,usable,206.35,225.84597,
+12,froke,frok,voiceless,4,68+0i,o,k,velar,1.656,nuclear,yes,1,2,2,usable,131.4,169.798418,
+12,klape,klap,voiceless,8,69+0i,a,p,labial,1.696,nuclear,yes,1,2,2,usable,152.21,168.011423,
+12,frade,frad,voiced,3,71+0i,a,d,alveolar,1.856,nuclear,yes,1,3,3,usable,198.19,186.751984,
+12,quobe,quob,voiced,21,78+0i,o,b,labial,1.44,prenuclear,no,0,3,3,usable,145.83,126.713985,NO RELEASE; PF
+12,roge,rog,voiced,22,82+0i,o,g,velar,1.456,prenuclear,no,0,4,4,usable,167.1,162.605117,
+12,schuge,schug,voiced,23,83+0i,u,g,velar,1.56,prenuclear,no,0,4,4,usable,153.12,119.265686,
+12,stauke,stauk,voiceless,24,87+0i,au,k,velar,2.064,prenuclear,no,0,2,2,not_usable,160.21,195.937475,hesitation after EIN
+12,gaute,gaut,voiceless,15,88+0i,au,t,alveolar,1.536,prenuclear,no,0,4,4,usable,164.88,196.022976,
+12,frupe,frup,voiceless,14,92+0i,u,p,labial,1.72,nuclear,yes,1,3,3,usable,100.5,103.204937,
+12,pruge,prug,voiced,19,94+0i,u,g,velar,1.504,prenuclear,no,0,3,3,usable,140.88,114.783305,
+12,flabe,flab,voiced,13,95+0i,a,b,labial,1.624,prenuclear,no,1,3,3,usable,181.37,195.257021,PF
+12,quate,quat,voiceless,20,101+0i,a,t,alveolar,1.768,prenuclear,no,1,2,2,usable,164.52,197.815399,
+12,mupe,mup,voiceless,17,105+0i,u,p,labial,1.496,prenuclear,no,1,1,1,usable,155.68,120.948075,
+12,frate,frat,voiceless,3,109+0i,a,t,alveolar,1.464,prenuclear,no,0,4,4,usable,144.68,169.487938,
+12,schmaube,schmaub,voiced,10,112+0i,au,b,labial,1.576,prenuclear,no,0,3,3,usable,178.34,158.056214,PF
+12,gake,gak,voiceless,5,117+0i,a,k,velar,1.464,prenuclear,no,1,3,3,usable,195.59,211.345284,
+12,froge,frog,voiced,4,118+0i,o,g,velar,1.536,prenuclear,no,1,2,2,usable,171.49,150.532383,
+12,schriege,schrieg,voiced,11,120+0i,i,g,velar,1.52,prenuclear,no,0,5,5,usable,143.52,136.934322,
+12,wiepe,wiep,voiceless,12,123+0i,i,p,labial,1.48,prenuclear,no,2,3,3,usable,102.1,111.763888,
+12,blode,blod,voiced,1,130+0i,o,d,alveolar,1.6,prenuclear,no,2,2,2,usable,162.92,157.412734,
+12,griete,griet,voiceless,7,134+0i,i,t,alveolar,1.584,prenuclear,no,1,4,4,usable,102.61,131.461013,
+12,klabe,klab,voiced,8,135+0i,a,b,labial,1.616,prenuclear,no,1,2,2,usable,157.49,162.668276,
+12,gope,gop,voiceless,6,136+0i,o,p,labial,1.52,prenuclear,no,0,3,3,usable,120.77,150.540424,
+12,nauke,nauk,voiceless,9,138+0i,au,k,velar,1.688,nuclear,yes,0,4,4,usable,160.76,227.186793,
+12,drude,drud,voiced,2,142+0i,u,d,alveolar,1.584,prenuclear,no,0,3,3,usable,157.96,118.514937,
+13,flape,flap,voiceless,13,3+0i,a,p,labial,1.76,prenuclear,no,0,5,5,usable,109.48,242.559307,target lengthened
+13,quade,quad,voiced,20,4+0i,a,d,alveolar,1.688,prenuclear,no,1,3,3,usable,190.37,268.448634,target lengthened?
+13,quope,quop,voiceless,21,5+0i,o,p,labial,1.632,prenuclear,no,1,2,2,usable,146.96,185.438442,
+13,stauge,staug,voiced,24,9+0i,au,g,velar,1.6,prenuclear,no,0,3,3,usable,169.76,186.950301,
+13,pruke,pruk,voiceless,19,14+0i,u,k,velar,1.68,prenuclear,no,1,3,3,usable,92.5,121.160052,
+13,frube,frub,voiced,14,16+0i,u,b,labial,1.696,prenuclear,no,0,3,3,usable,126.51,173.544234,
+13,priege,prieg,voiced,18,21+0i,i,g,velar,1.656,prenuclear,no,0,5,5,not_usable,142.02,171.620377,VQ e
+13,roke,rok,voiceless,22,22+0i,o,k,velar,1.664,prenuclear,no,1,2,2,usable,155.85,173.600144,
+13,mube,mub,voiced,17,26+0i,u,b,labial,1.664,prenuclear,no,1,4,4,usable,190.24,129.787305,
+13,schuke,schuk,voiceless,23,28+0i,u,k,velar,1.648,prenuclear,no,1,3,3,usable,113.14,120.598427,
+13,jiete,jiet,voiceless,16,32+0i,i,t,alveolar,1.544,prenuclear,no,2,3,3,usable,140.71,161.721695,
+13,gaude,gaud,voiced,15,34+0i,au,d,alveolar,1.496,prenuclear,no,0,3,3,usable,213.2,234.944788,
+13,gake,gak,voiceless,5,37+0i,a,k,velar,1.68,prenuclear,no,1,3,3,usable,195.59,269.465491,
+13,klabe,klab,voiced,8,39+0i,a,b,labial,1.552,prenuclear,no,1,2,2,usable,157.49,240.695579,
+13,blode,blod,voiced,1,40+0i,o,d,alveolar,1.512,prenuclear,no,2,2,2,usable,162.92,202.25198,
+13,wiepe,wiep,voiceless,12,43+0i,i,p,labial,1.448,prenuclear,no,2,3,3,usable,102.1,106.321743,
+13,schmaube,schmaub,voiced,10,52+0i,au,b,labial,1.44,prenuclear,no,0,3,3,usable,178.34,163.698793,
+13,griete,griet,voiceless,7,53+0i,i,t,alveolar,1.416,prenuclear,no,1,4,4,usable,102.61,132.661934,
+13,frate,frat,voiceless,3,55+0i,a,t,alveolar,1.624,prenuclear,no,0,4,4,usable,144.68,244.706768,target lengthened?
+13,froge,frog,voiced,4,58+0i,o,g,velar,1.568,prenuclear,no,1,2,2,usable,171.49,177.791769,
+13,nauke,nauk,voiceless,9,61+0i,au,k,velar,1.496,prenuclear,no,0,4,4,usable,160.76,230.392065,
+13,gope,gop,voiceless,6,63+0i,o,p,labial,1.536,prenuclear,no,0,3,3,usable,120.77,153.54356,sounds english ou
+13,schriege,schrieg,voiced,11,64+0i,i,g,velar,1.488,nuclear,no,0,5,5,usable,143.52,112.545213,
+13,drude,drud,voiced,2,66+0i,u,d,alveolar,1.544,prenuclear,no,0,3,3,usable,157.96,172.233325,
+13,gaute,gaut,voiceless,15,77+0i,au,t,alveolar,1.528,prenuclear,no,0,4,4,usable,164.88,231.288357,
+13,frupe,frup,voiceless,14,78+0i,u,p,labial,1.648,prenuclear,no,1,3,3,usable,100.5,163.214522,
+13,flabe,flab,voiced,13,81+0i,a,b,labial,1.656,prenuclear,no,1,3,3,usable,181.37,219.455951,
+13,quobe,quob,voiced,21,82+0i,o,b,labial,1.656,prenuclear,no,0,3,3,usable,145.83,192.447976,
+13,roge,rog,voiced,22,84+0i,o,g,velar,1.696,prenuclear,no,0,4,4,usable,167.1,189.201227,
+13,stauke,stauk,voiceless,24,85+0i,au,k,velar,1.544,prenuclear,no,0,2,2,usable,160.21,210.530907,
+13,mupe,mup,voiceless,17,90+0i,u,p,labial,1.544,prenuclear,no,1,1,1,usable,155.68,144.446558,
+13,jiede,jied,voiced,16,92+0i,i,d,alveolar,1.624,prenuclear,no,0,5,5,not_usable,151.45,213.514836,VQ e; lenthened target
+13,pruge,prug,voiced,19,97+0i,u,g,velar,1.616,prenuclear,no,0,3,3,usable,140.88,194.043135,
+13,schuge,schug,voiced,23,99+0i,u,g,velar,1.56,prenuclear,no,0,4,4,usable,153.12,142.71442,
+13,prieke,priek,voiceless,18,103+0i,i,k,velar,1.608,prenuclear,no,1,3,3,not_usable,114.28,139.805151,VQ e; [plek]
+13,quate,quat,voiceless,20,108+0i,a,t,alveolar,1.552,prenuclear,no,1,2,2,usable,164.52,232.815829,
+13,schmaupe,schmaup,voiceless,10,109+0i,au,p,labial,1.648,prenuclear,no,0,3,3,usable,155.18,192.409308,
+13,blote,blot,voiceless,1,114+0i,o,t,alveolar,1.472,prenuclear,no,2,2,2,not_usable,153.82,184.023194,sounds english ou
+13,wiebe,wieb,voiced,12,122+0i,i,b,labial,1.472,prenuclear,no,0,4,4,usable,115.02,113.494857,NO RELEASE
+13,drute,drut,voiceless,2,124+0i,u,t,alveolar,1.512,prenuclear,no,0,2,2,usable,111.7,110.395575,
+13,frade,frad,voiced,3,127+0i,a,d,alveolar,1.512,prenuclear,no,1,3,3,usable,198.19,210.267881,flapped R
+13,gage,gag,voiced,5,129+0i,a,g,velar,1.616,prenuclear,no,1,4,4,usable,220.77,254.574444,
+13,griede,gried,voiced,7,130+0i,i,d,alveolar,1.456,prenuclear,no,0,5,5,usable,116.35,136.924026,flapped R
+13,nauge,naug,voiced,9,132+0i,au,g,velar,1.544,prenuclear,no,0,4,4,usable,206.35,225.882315,
+13,schrieke,schriek,voiceless,11,135+0i,i,k,velar,1.568,prenuclear,no,1,3,3,usable,124.84,146.512138,
+13,klape,klap,voiceless,8,141+0i,a,p,labial,1.728,prenuclear,no,1,2,2,usable,152.21,228.258654,
+13,gobe,gob,voiced,6,144+0i,o,b,labial,1.672,prenuclear,no,1,3,3,not_usable,153.2,175.189705,sounds english ou
