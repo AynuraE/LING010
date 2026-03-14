@@ -1,0 +1,300 @@
+TextCode,URL,GenderAuthor,Source,Model,Sentiment,ModelComments
+nu-f-001.pdf,https://qalampir.uz/uz/news/gender-tenglik-tushunchasi-notugri-talk-in-k-ilinadi-almatov-131820,M,newspaper,GPT5.2Thinking,-0.25,"The text is largely problem-focused and cautionary, emphasizing worrying statistics about women’s crime, youth crime, and high divorce figures, and framing them as a serious social issue affecting families and children nu-f-001.pdf. It also notes a positive element (women becoming mayors/ministers) and promotes mutual respect and balance in families, but these are secondary to the overall negative framing around crime and family breakdown"
+nu-f-002.pdf,https://qalampir.uz/uz/news/4-nafar-ayelni-fo%D2%B3ishalik-uchun-sotmok-chi-bulgan-shakhs-ushlandi-video-130611,M,newspaper,GPT5.2Thinking,-0.85,"The text reports an attempted human trafficking case: a woman allegedly tried to send four women to Russia for prostitution by deception, aiming to profit from selling them, and the victims were stopped at the airport; a criminal case has been opened and an investigation is ongoing. This content centers on exploitation, crime, and victimization, which makes the overall sentiment strongly negative."
+nu-f-003.pdf,https://qalampir.uz/uz/news/17-yeshli-k-izning-k-otiliga-%D2%B3ukmni-uzgartirish-uchun-pora-olgan-sud-yalarga-ish-ochildi-127574,M,newspaper,GPT5.2Thinking,-0.95,"The text is dominated by extremely distressing content: the rape and murder of a 17-year-old girl, detailed descriptions of the violence, and allegations of corruption where former judges took a bribe to reduce the suspect’s sentence. It also discusses prior violent offenses and concerns about other possible related crimes. Because the narrative centers on severe harm, injustice, and abuse of power—with essentially no positive or uplifting elements—the overall sentiment is overwhelmingly negative."
+nu-f-004.pdf,https://qalampir.uz/uz/news/toshkentda-talaba-ishk-iy-munosabat-uchun-chak-irilgan-ayelni-bugib-uldirdi-125150,M,newspaper,GPT5.2Thinking,-0.92,"This text is overwhelmingly negative because it centers on a deliberate killing (strangulation), the attempt to hide the body, and the subsequent criminal trial and prison sentence. The narrative includes violence, fear, conflict, and criminal punishment, with virtually no positive or uplifting elements—so the overall emotional tone is strongly negative."
+nu-f-005.pdf,https://qalampir.uz/uz/news/15-yeshli-k-izga-uylangan-27-yeshli-erkakka-zhinoyat-ishi-k-uzgatildi-124621,M,newspaper,ChatGPT 5.2,-0.7,"The overall sentiment of the text is strongly negative. It reports on a serious legal and social issue involving the forced/illegal marriage of a 15-year-old girl in Surxondaryo, the initiation of criminal cases, and violations of child rights and marriage laws. The language is factual and formal (like a news report), but the content centers on crime, legal violations, exploitation of a minor, and official condemnation of early marriage. These themes—child rights abuse, criminal investigation, and legal consequences—create a predominantly negative emotional tone, even though the text also mentions protective measures (investigation, monitoring of the girl’s education, and legal accountability). This prevents it from being completely negative (-1), but it is still clearly negative overall."
+nu-f-006.pdf,https://t.me/SukutSaqlama/4895,M,newspaper,ChatGPT 5.2,-0.2,"this passage is about proposed legal reforms aimed at strengthening protection for children and survivors of abuse. The emotional tone is therefore very different.
+
+The text contains:
+
+Negative elements
+The topic itself is rooted in serious crimes (pedophilia, sexual violence).
+
+The need for harsher punishment implies existing problems in the justice system.
+
+The context is sensitive and emotionally heavy."
+nu-f-007.pdf,https://t.me/SukutSaqlama/4894,M,newspaper,ChatGPT 5.2,0.8,"This passage is fundamentally uplifting and celebratory. It highlights:
+
+O‘zbekistonlik ayol velosportchilarning Osiyo chempionatida kumush medal olgani
+
+Sportchilarning barqarorligi, chidamliligi va jamoaviy birdamligi
+
+O‘zbekiston ayollar sportining yuksak saviyada ekanini tasdiqlashi
+
+Milliy terma jamoaning xalqaro maydondagi muvaffaqiyati"
+nu-f-008.pdf,https://t.me/SukutSaqlama/4892,M,newspaper,ChatGPT 5.2,-0.9,"The passage deals with:
+
+Voyaga yetmagan qizning homilador bo‘lishi
+
+Voyaga yetgan erkakning ehtimoliy jinoyati
+
+OAVning noto‘g‘ri yoritishi va jabrlanuvchini ayblash
+
+Etika buzilishi, victim-blaming, va ijtimoiy stereotiplar
+
+Jinoyatning o‘zi emas, qizning homiladorligi markazga chiqarilishi
+
+Bu mavzularning barchasi og‘ir, salbiy va ijtimoiy jihatdan tashvishli."
+nu-f-009.pdf,https://t.me/SukutSaqlama/4886,M,newspaper,ChatGPT 5.2,-0.6,"The passage discusses:
+
+Ruhiy zo‘ravonlik (emotional abuse within marriage)
+
+Jabrlanuvchining o‘zini yomon his qilishi
+
+Isbotlash qiyinligi haqidagi qo‘rquv
+
+Zo‘ravonlikning huquqiy jihatlari
+
+Bu mavzular tabiatan og‘ir va salbiy. Matnning asosiy hissiyati — xavotir, tushkunlik, adolatsizlikdan qo‘rquv, va ruhiy bosim."
+nu-f-010.pdf,https://t.me/SukutSaqlama/4884,M,newspaper,ChatGPT 5.2,-0.95,"The passage is emotionally heavy and centers on:
+
+Zo‘ravonlik
+
+Samosud holatlari
+
+Adolatsizlik va tizimning ishlamasligi
+
+Jinoyatchilarning jazosiz qolishi
+
+Odamlarning qonunlarga bo‘lgan ishonchini yo‘qotishi
+
+Oilaviy fojealar va vayron bo‘lgan hayotlar
+
+Bu mavzularning barchasi chuqur salbiy hissiyotlar bilan to‘yingan."
+nu-f-011.pdf,https://kun.uz/news/2026/01/15/toshkentda-xotinini-toyga-yubormaslik-uchun-yertolaga-qamab-qoygan-sobiq-harbiy-3-yilga-qamaldi,M,article,GPT5.2Thinking,-0.88,"The text is strongly negative in tone because it reports domestic violence and unlawful deprivation of liberty: a husband locks his wife in a damp basement for a day without food or water, beats her on another date, and is convicted and sentenced to prison. The language is centered on harm, fear, coercion, injury, and punishment, with the victim describing terror and ongoing abuse. While the court’s guilty verdict and imprisonment introduce an element of accountability, the overall narrative remains dominated by abuse and suffering, so the net sentiment stays highly negative."
+nu-f-012.pdf,https://kun.uz/news/2025/12/13/ozbekistonda-zoravonlikka-uchragan-ayollarning-27-foizi-bunday-holatlarga-ayollarning-ozlari-aybdor-bolishlarini-takidlagan-tadqiqot,M,article,GPT5.2Thinking,-0.72,"The overall tone is negative because the text is centered on violence against women and its harms, using statistics about prolonged and repeated abuse, threats to life (knife threats/attempted killing), and ongoing sexual coercion. It also emphasizes severe mental-health impacts (stress, depression, suicidal thoughts) and the intergenerational effect on children witnessing violence. These themes strongly push the sentiment toward negative. There are some mildly positive / hopeful elements that slightly offset the negativity: the report says protection mechanisms (protection orders, rehab centers, services) are evaluated positively and that violence often stopped or decreased for women who received support, and it offers recommendations for systemic improvement. However, the dominant language remains problem-focused and distress-oriented, so the net sentiment stays clearly negative."
+nu-f-013.pdf,https://kun.uz/news/2025/10/29/yopigliq-qozon-qizlariga-koz-olaytirgan-ogay-otalar-haqida-ikki-hikoya,M,article,GPT5.2Thinking,-0.93,"This text is overwhelmingly negative because it describes child sexual abuse by stepfathers, repeated victimization, intimidation of minors (e.g., threats like “your brothers will be left on the street”), and systemic failure in protection and justice. The tone is not just descriptive but also strongly accusatory and alarmed: it emphasizes “horror,” “helplessness,” and the idea that the system protects abusers (lack of psychologists during interrogations, evidence not presented, protection orders repeatedly violated, and officials urging to “keep the lid on”/avoid public exposure). Even where there are procedural steps (complaints filed, a case opened), they are framed as inadequate, reinforcing a sense of injustice and ongoing harm—so the overall sentiment remains intensely negative."
+nu-f-014.pdf,https://kun.uz/news/2025/10/09/navoiyda-er-ajrashayotgan-xotinini-alimentdan-voz-kechmagani-uchun-mashinada-urib-ketdi,M,article,GPT5.2Thinking,-0.91,"The text is overwhelmingly negative because it describes severe domestic violence and attempted lethal harm: a husband allegedly threatens his divorcing wife over child support (alimony) and then intentionally hits her with a car, causing a broken spine and paralysis. The narrative emphasizes ongoing danger (continued threats), refusal to help with medical costs, and financial hardship for the victim’s family. It also criticizes the justice/protection system—initially treating the incident as a lesser traffic offense and not detaining the suspect—framing the situation as injustice and institutional failure, which intensifies the negative tone."
+nu-f-015.pdf,https://kun.uz/news/2025/10/07/fargonada-iib-xodimlari-kaltaklab-yalangoch-holda-tasvirga-olgan-ayol-voqeasini-senat-qomitasi-nazoratga-oldi,M,article,GPT5.2Thinking,-0.89,"The text is strongly negative because it reports an alleged case of severe abuse by law-enforcement officers: a woman being beaten, having her clothes torn, and being filmed naked—framed explicitly as humiliation and violence. It emphasizes institutional wrongdoing and injustice (some officials reportedly exempted from criminal liability, which the victim disputes), while calling for “full and impartial” investigation and parliamentary/ombudsman oversight. Even though the article mentions oversight mechanisms (Senate committee control, ombudsman monitoring), the dominant language centers on harm, degradation, and accountability failures, resulting in a heavily negative overall sentiment."
+nu-f-016.pdf,https://t.me/SukutSaqlama/4882,M,article,ChatGPT 5.2,-0.97,"This passage is deeply distressing and centers on:
+
+Oilaviy zo‘ravonlik
+
+Jabrlanuvchining sog‘lig‘iga yetgan jiddiy zarar
+
+Tizimning himoya qilmasligi
+
+Norasmiy bosim, manipulyatsiya va shaffoflikning yo‘qligi
+
+Ekspertiza natijalaridagi ziddiyatlar
+
+Adolatning rad etilishi
+
+Bu mavzularning barchasi kuchli salbiy hissiyotlar bilan to‘yingan."
+nu-f-017.pdf,https://t.me/SukutSaqlama/4874,M,article,ChatGPT 5.2,-0.4,"This passage is very different from the previous ones you shared. It discusses:
+
+Hissiyotsizlik (emotional numbness)
+
+Stress, charchoq, depressiya yoki travma ehtimoli
+
+Psixologning tushuntirishi va tavsiyalari
+
+Yordam izlashga undovchi konstruktiv ohang
+
+Bu mavzu tabiatan salbiy — chunki u hissiy muammolar, ruhiy holatdagi o‘zgarishlar va ehtimoliy ruhiy kasalliklar haqida. Shu sababli matnning umumiy kayfiyati biroz og‘ir."
+nu-f-018.pdf,https://t.me/SukutSaqlama/4867,M,article,ChatGPT 5.2,-0.98,"This passage is emotionally very heavy and centers on:
+
+Voyaga yetmagan qizning o‘g‘irlab ketilishi
+
+Jinsiy zo‘ravonlik maqsadi bilan harakat qilgan erkaklar
+
+Qizning qo‘rquvi, yig‘lashi, yordam so‘rashi
+
+Ayol va bolalarga nisbatan xavfsizlikning yo‘qligi
+
+Zo‘ravonlarning o‘zini oqlashga urinishlari
+
+Tizimning jinoyatni “xato” emas, qasddan sodir etilgan deb tan olishi
+
+Bu voqea o‘z mohiyatiga ko‘ra og‘ir jinoyat, va matnning har bir qismi keskin salbiy hissiyotlar bilan to‘yingan."
+nu-f-019.pdf,https://t.me/SukutSaqlama/4861,M,article,ChatGPT 5.2,-0.96,"The passage describes:
+
+Professional bokschi tomonidan sodir etilgan jismoniy va ruhiy zo‘ravonlik
+
+Ayolning doimiy qo‘rquvda yashashi
+
+Tahdidlar, kamsitishlar, nazorat va yakkalash
+
+Ota-onaga nisbatan tazyiq
+
+Zo‘ravonning jazosiz qolishiga bo‘lgan ishonchi
+
+Ayolning yordam so‘rab murojaat qilishi
+
+Bu elementlarning barchasi chuqur salbiy, og‘ir va travmatik mazmunga ega."
+nu-f-020.pdf,https://t.me/SukutSaqlama/4859,M,article,ChatGPT 5.2,-0.85,"The passage discusses:
+
+Jamoat joyida sodir etilgan shahvoniy shilqimlik
+
+Voyaga yetgan erkakning ayolga nisbatan tajovuzkor xatti-harakati
+
+Sudning atigi 5 sutkalik jazo tayinlagani
+
+Jinoyatning profilaktik ta’siri yo‘qligi haqidagi xavotir
+
+Jabrlanuvchining himoyasizligi va zo‘ravonning jazosiz qolishiga bo‘lgan ishonchi
+
+Bu elementlarning barchasi salbiy, xavotirli va ijtimoiy og‘riqli mavzularni aks ettiradi."
+nu-f-021.pdf,https://qalampir.uz/uz/news/k-ashk-adareda-maktab-direktori-ishga-kirmok-chi-bulgan-ayelga-zhinsiy-alok-a-taklif-k-ildi-audio-125614,F,newspaper,ChatGPT 5.2,-0.8,"The text has a strongly negative sentiment because it discusses allegations of sexual misconduct and abuse of power by a school director who reportedly offered employment in exchange for sexual relations. The content includes accusations, institutional investigation, dismissal from a position, and condemnation of unethical behavior. While the tone is formal and informational (like an official report), the subject matter—harassment, corruption, and disciplinary action—creates a clearly negative emotional context. The mention of corrective action (removal from duty and official condemnation) slightly reduces the negativity, but the overall sentiment remains strongly negative."
+nu-f-022.pdf,https://nemolchi.uz/uz/zhizzahdagi-maktab-direktori-izlariga-tazji-tkazib-ularni-mazhburlab-turmushga-chi-argan-ish-ishlashdan-ma-rum-ilgan-va-jerkinliklarini-cheklagan/,F,newspaper,ChatGPT 5.2,-0.95,"The sentiment of this text is extremely negative. It describes severe allegations of prolonged violence, coercion, forced marriage, confinement, physical abuse, psychological pressure, and threats against two adult sisters by their mother. The narrative includes disturbing details such as beatings, forced sexual acts, being locked in a house, medical examinations under coercion, and attempts to hide them from authorities. Although the tone is partly journalistic and includes mentions of protection orders, medical assistance, and involvement of authorities and human rights organizations (which introduce a small element of support and intervention), the dominant emotional content is centered on abuse, fear, injustice, and urgent pleas for help. The repeated references to violence, trauma, and institutional pressure strongly intensify the negativity. Because the text is overwhelmingly focused on human rights violations and suffering, with only limited positive elements (help from officials and supporters), the overall sentiment is very close to completely negative, but not exactly -1 due to the presence of assistance and advocacy efforts."
+nu-f-023.pdf,https://nemolchi.uz/uz/u-menga-d-stinikiga-me-monga-ketajotganimizni-ajtgandi/,F,newspaper,ChatGPT 5.2,-0.97,"The text is overwhelmingly negative because it describes a minor (15–16 years old) being lured, raped, threatened with blackmail (photos/videos), repeatedly abused, and psychologically harmed, followed by pregnancy, loss of the fetus, and suicide attempts. The language is dominated by fear, coercion, violence, trauma, and frustration with the legal process (e.g., concerns about delays, missing documents, and charges not matching the victim’s account). Although there are brief mentions of support (legal/psychological help), they do not offset the overall tone, which is strongly distressing and condemning of the abuse and injustice."
+nu-f-024.pdf,https://nemolchi.uz/uz/angarlik-manjak/,F,newspaper,GPT5.2Thinking,-0.96,"The passage is overwhelmingly negative because it focuses on extreme violence and sexual assault: repeated rapes, serial murders (reported 80 victims), descriptions of bodies being found, the perpetrator’s methods, and court sentences (life imprisonment and additional terms). The language is graphic and crime-centered, emphasizing brutality (“merciless,” “bloodthirsty,” “cruel”) and sustained fear/trauma rather than any positive resolution. "
+nu-f-025.pdf,https://nemolchi.uz/uz/ota-onasi-bolaligini-irlagan-iz-vo-easi/,F,newspaper,ChatGPT 5.2,-0.94,"The text uses intensely negative, traumatic language to describe child sexual abuse/incest, repeated assaults over multiple years, threats and coercion, and severe harm to the victim’s life and family relationships. It contains explicit descriptions of sexual violence, intimidation, and betrayal by trusted adults, which drives the sentiment sharply negative. There are a few elements that slightly reduce the negativity (but do not outweigh it): the victim is referred to support services, receives psychological/legal help, and the main perpetrator receives a long prison sentence. However, the overall framing remains dominated by abuse, suffering, stigma/blame from relatives, and criticism that such violence is often hidden and under-documented—so the net sentiment stays very negative."
+nu-f-026.pdf,https://t.me/SukutSaqlama/4926,F,newspaper,ChatGPT 5.2,-0.9,"The text is strongly negative because it describes severe domestic violence, attempted murder, threats, and fear for safety. Most of the language carries negative emotional weight: Violence and harm: stabbing, beating, dragging, threats to kill, Fear and danger: the victim and children remain at risk, Criticism of the justice system: relatively light sentence, concerns about future safety, Warning tone: urging readers to remember the case when asking “Why didn’t she leave?” Although there are small neutral elements (court details, legal classification), the overall narrative focuses on violence, trauma, and danger, which pushes the sentiment close to −1."
+nu-f-027.pdf,https://t.me/SukutSaqlama/4912,F,newspaper,ChatGPT 5.2,-0.85,"The text expresses a very negative sentiment, though slightly less extreme than −1 because it also contains elements of advocacy and hope for justice.
+
+Strong negative elements
+
+Most of the narrative focuses on harm, injustice, and institutional failure:
+
+Sexual harassment of minors (12-year-old girls)
+
+Frustration with the legal system repeatedly refusing to open a criminal case
+
+Anger and distrust toward law enforcement
+
+Fear that the perpetrator may harm others
+
+Emotional statements from the mother describing pain, injustice, and indifference from authorities
+
+These contribute strongly to negative sentiment."
+nu-f-028.pdf,https://t.me/SukutSaqlama/4911,F,newspaper,ChatGPT 5.2,-1,"The text describes:
+
+Sexual violence against a minor
+
+Long‑term neglect and lack of protection
+
+Trauma, injustice, and societal failure
+
+A call to recognize and condemn abuse
+
+All emotional cues in the passage are deeply negative
+
+"
+nu-f-029.pdf,https://t.me/SukutSaqlama/4902,F,newspaper,ChatGPT 5.2,-1,"The passage describes:
+
+Attempted sexual assault
+
+Attempted strangulation
+
+A survivor escaping violence
+
+A judicial decision perceived as unjust and dangerously lenient
+
+Public outrage and fear for women’s safety
+
+Criticism of systemic failures"
+nu-f-030.pdf,https://t.me/SukutSaqlama/4898,F,newspaper,ChatGPT 5.2,-1,"The passage contains extremely distressing and emotionally heavy content, including:
+
+Guruh bo‘lib zo‘rlash (gang rape of a minor)
+
+Qo‘rqitish, o‘ldirish bilan tahdid
+
+Jinoyatchilarning qochib ketishi
+
+Tergovdagi sustkashlik va ehtimoliy korrupsiya
+
+Jabrlanuvchi va uning oilasining qo‘rquvi
+
+Adolatning ta’minlanmayotgani haqidagi xavotir
+
+The emotional tone is dominated by:
+
+Dahshat
+
+G‘azab
+
+Umidsizlik
+
+Adolatsizlik hissi
+
+Jamiyat va tizimga nisbatan chuqur ishonchsizlik"
+nu-f-031.pdf,https://nemolchi.uz/uz/uning-ismi-zilola-jedi/,F,article,GPT5.2Thinking,-0.9,"The text describes a deeply tragic and abusive situation: a young woman’s forced/pressured marriage, ongoing humiliation and isolation by her husband (including confiscating her phone), repeated family and community pressure (“a daughter doesn’t return from her husband’s house”), escalating conflict, and ultimately her death by apparent suicide. The narrative continues with criminal proceedings and imprisonment for “driving someone to suicide,” reinforcing a tone of harm, injustice, and loss. There are no genuinely positive emotional elements; even the court conviction functions more as a bleak legal conclusion than an uplifting resolution."
+nu-f-032.pdf,https://nemolchi.uz/uz/zhizzah-vilojatida-jerkak-6-sinf-uvchisini-z-rladi-va-2-jil-ozodlikni-cheklash-zhazosini-oldi/,F,article,GPT5.2Thinking,-0.86,"Although the first paragraph is written in a relatively factual, case-summary style (it even uses terms like “with her consent” and notes the mother has “no claims”), the overall text becomes strongly negative because it is primarily an outraged critique of how the case was investigated and sentenced. The author expresses shock and alarm, argues the act should be treated as a much more serious sexual offense given the girl’s age (under 14), and explicitly condemns “romanticizing” sex with minors. The language includes strongly judgmental and warning phrases (e.g., calling such justifications “stupidity,” warning this logic could be used to excuse assaults on even younger children), and demands prosecutorial protest and stricter legal handling—driving the sentiment firmly into negative territory."
+nu-f-033.pdf,https://nemolchi.uz/uz/nazima/,F,article,ChatGPT 5.2,-0.2,"The text has a slightly negative overall sentiment, but it is mixed and reflective rather than strongly negative. Much of the narrative describes uncomfortable childhood experiences, violation of personal boundaries, emotional insecurity, harassment, and fear, which contribute to a negative emotional tone. The author expresses feelings of discomfort, lack of safety, anxiety, and long-term psychological impact. However, the latter part of the text shifts toward awareness, growth, and hope. The narrator reflects on learning about personal boundaries, consciously teaching these values to her daughter, and expressing optimism that modern children will grow up mentally healthier. This introduces positive and constructive elements such as healing, self-understanding, and protective parenting. Because the text moves from past distress to present empowerment and hopeful outlook, the overall sentiment is only mildly negative rather than strongly negative, resulting in a score close to neutral but slightly below zero."
+nu-f-034.pdf,https://nemolchi.uz/uz/ota-onam-meni-shni-zhazolanishdan-r-masdan-z-rlashi-uchun-katta-ilishganmi/,F,article,ChatGPT 5.2,-0.97,"The sentiment of this text is extremely negative. It contains a detailed narrative of child sexual assault, threats, psychological trauma, and prolonged institutional inaction. The language used is emotionally heavy and centered on fear, violence, injustice, and lasting harm. Words and phrases describing force (“dragged,” “threatened to kill”), silence due to fear, depression, suicidal thoughts, and destroyed childhood strongly intensify the negative tone."
+nu-f-035.pdf,https://nemolchi.uz/uz/shanini-imoja-ilgan-kelin-ikojasi/,F,article,ChatGPT 5.2,-0.6,"The overall sentiment of this text is moderately negative. Although it is written in a critical and analytical tone rather than a purely emotional victim narrative, it discusses a homicide case, media bias, victim-blaming, and gendered moral judgment, all of which contribute to a negative emotional framing. Linguistically, the negativity comes from: Criticism of media discourse and moralizing language used in the TV program. References to violence (a killing, harassment, self-defense context). Frustration with institutional and societal attitudes toward women. Rhetorical questioning that challenges victim-blaming and patriarchal narratives. However, unlike direct assault testimonies, the text is not centered on trauma description but on commentary and critique of how the event is framed (e.g., moralizing about “nafs,” family honor, and women’s behavior). This introduces a more argumentative and journalistic register rather than purely distress-driven language."
+nu-f-036.pdf,https://t.me/SukutSaqlama/4855,F,article,ChatGPT 5.2,-0.99,"This passage is one of the most emotionally heavy and tragic among the texts you’ve shared. It includes:
+
+Oilaviy zo‘ravonlikning eng og‘ir shakli — qotillik
+
+Ayolning o‘z turmush o‘rtog‘i tomonidan pichoqlab o‘ldirilishi
+
+Jinoyatning maktab hududida, bolalar va xodimlar ko‘z o‘ngida sodir bo‘lishi
+
+Erkakning egalik hissi va ayolni “o‘z mulki” deb bilishi
+
+O‘zbekiston bo‘ylab takrorlanayotgan o‘xshash fojialar ro‘yxati
+
+Tizimning oilaviy zo‘ravonlikni oldini olishda sustligi
+
+Jamiyatdagi chuqur ildiz otgan gender zo‘ravonlik muammosi
+
+Bu elementlarning barchasi chuqur salbiy, fojeaviy va ijtimoiy jihatdan og‘ir."
+nu-f-037.pdf,https://t.me/SukutSaqlama/4842,F,article,ChatGPT 5.2,-0.97,"The passage describes:
+
+Tizimli oilaviy zo‘ravonlik
+
+Ayolning kaltaklanishi va shifoxonaga yotqizilishi
+
+Bolalarning muntazam haqorat va jismoniy tazyiqqa uchrashi
+
+O‘lim bilan tahdidlar
+
+Bolalarning yalangoyoq, qo‘rqib, stress holatida qochib yurishi
+
+Sudning atigi 10 sutkalik jazo tayinlagani
+
+Tizimning bolalarni himoya qilishdagi sustligi
+
+Tuzatish dasturlari qo‘llanilmagani
+
+Zo‘ravonning uyga qaytgach yanada xavfli bo‘lish ehtimoli
+
+Bu elementlarning barchasi chuqur salbiy, og‘ir va xavotirli."
+nu-f-038.pdf,https://t.me/SukutSaqlama/4835,F,article,ChatGPT 5.2,-0.94,"The passage describes:
+
+Shifokor tomonidan bemorga nisbatan shahvoniy shilqimlik
+
+Xizmat mavqeidan suiiste’mol qilish
+
+Bemorning zaif holatidan foydalanish
+
+Sudning atigi 5 sutkalik jazo tayinlagani
+
+Tibbiyot tizimiga bo‘lgan ishonchning zarar ko‘rishi
+
+Takrorlanish xavfi va tizimli muammolar
+
+Bu elementlarning barchasi chuqur salbiy, xavotirli va ijtimoiy jihatdan og‘ir."
+nu-f-039.pdf,https://t.me/SukutSaqlama/4828,F,article,ChatGPT 5.2,-0.99,"Bu matn chuqur fojea, zo‘ravonlik va tizimli muammolar haqida. Unda:
+
+Ayolning turmush o‘rtog‘i tomonidan pichoqlab o‘ldirilishi
+
+Ikki farzandning onasiz qolishi
+
+Oiladagi doimiy zo‘ravonlik va janjallar
+
+Ko‘pxotinlilik, norasmiy nikoh va himoyasizlik
+
+Ayollarga nisbatan xavfning oshishi
+
+Zo‘ravonlikning ildizlari va oqibatlari
+
+kabi og‘ir, salbiy, travmatik mavzular mavjud."
+nu-f-040.pdf,https://t.me/SukutSaqlama/4807,F,article,ChatGPT 5.2,-0.99,"Bu matn zo‘ravonlikning eng og‘ir shakllaridan biri — voyaga yetmagan qizga nisbatan guruh bo‘lib zo‘rlash haqida. Unda:
+
+14 yoshli qizning zo‘rlanishi
+
+Jinoyatning gavjum joyda sodir etilgani
+
+Mahalla va jamoatning befarqligi yoki sustligi
+
+Qizning ruhiy sog‘ligidagi muammolar
+
+Jinoyatchilarning bir qismi qo‘yib yuborilgani
+
+Tizimning zaifligi va xavfsizlikning ta’minlanmagani
+
+kabi juda og‘ir, salbiy va travmatik elementlar mavjud."
